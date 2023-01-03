@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="11.313709"
-     inkscape:cx="62.048617"
-     inkscape:cy="71.550364"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="251.37499"
+     inkscape:cy="30.437499"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -1212,7 +1212,7 @@
        y="95"
        transform="rotate(-90)" />
     <rect
-       style="fill:#273d4d;fill-opacity:1;stroke-width:0.999987;stroke-linecap:square"
+       style="fill:#393745;fill-opacity:1;stroke-width:0.999987;stroke-linecap:square"
        id="decoration-maximized-inactive-center"
        width="26"
        height="45"

@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="64"
-     inkscape:cx="10"
-     inkscape:cy="13.570312"
+     inkscape:zoom="16"
+     inkscape:cx="38.6875"
+     inkscape:cy="28.28125"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -181,21 +181,21 @@
          transform="translate(79,-14)"
          style="opacity:0.8">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
            id="rect5018"
            width="7.9999995"
            height="1"
            x="-971.99994"
            y="-517" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
            id="rect5020"
            width="7.9999995"
            height="1"
            x="-972"
            y="-510" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
            id="rect5022"
            width="6.0000005"
            height="1"
@@ -203,7 +203,7 @@
            y="964"
            transform="rotate(90)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
            id="rect5024"
            width="6.0000005"
            height="1"
@@ -352,21 +352,21 @@
          transform="translate(79,10)"
          style="opacity:0.65">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
            id="rect5210"
            width="7.9999995"
            height="1"
            x="-971.99994"
            y="-517" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
            id="rect5212"
            width="7.9999995"
            height="1"
            x="-972"
            y="-510" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
            id="rect5214"
            width="6.0000005"
            height="1"
@@ -374,7 +374,7 @@
            y="964"
            transform="rotate(90)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
            id="rect5216"
            width="6.0000005"
            height="1"
