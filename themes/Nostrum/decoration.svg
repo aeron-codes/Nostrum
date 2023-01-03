@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="251.37499"
-     inkscape:cy="30.437499"
+     inkscape:zoom="16.000001"
+     inkscape:cx="246.18749"
+     inkscape:cy="37.156248"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -896,7 +896,7 @@
          y="95"
          transform="rotate(-90)" />
       <rect
-         style="fill:#393745;fill-opacity:1;stroke-width:0.999987;stroke-linecap:square"
+         style="fill:#3f3d4d;fill-opacity:1;stroke-width:0.999987;stroke-linecap:square"
          id="rect1637"
          width="26"
          height="45"
@@ -1094,7 +1094,7 @@
          y="121"
          transform="scale(-1,1)" />
       <rect
-         style="opacity:1;fill:#393745;fill-opacity:1;stroke-width:0.999995;stroke-linecap:square"
+         style="opacity:1;fill:#3f3d4d;fill-opacity:1;stroke-width:0.999995;stroke-linecap:square"
          id="rect6727"
          width="5"
          height="15.999991"
@@ -1102,7 +1102,7 @@
          y="120"
          transform="scale(-1,1)" />
       <path
-         style="opacity:1;fill:#393745;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
+         style="opacity:1;fill:#3f3d4d;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
          id="path6729"
          sodipodi:type="arc"
          sodipodi:cx="-95"
@@ -1115,7 +1115,7 @@
          d="m -90,-120.00001 a 5,4.9685831 0 0 1 -5,4.96859 v -4.96859 z"
          transform="scale(-1)" />
       <path
-         style="opacity:1;fill:#393745;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
+         style="opacity:1;fill:#3f3d4d;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
          id="path6731"
          sodipodi:type="arc"
          sodipodi:cx="-95"
@@ -1169,7 +1169,7 @@
          y="121"
          transform="scale(-1,1)" />
       <rect
-         style="opacity:1;fill:#393745;fill-opacity:1;stroke-width:0.999995;stroke-linecap:square"
+         style="opacity:1;fill:#3f3d4d;fill-opacity:1;stroke-width:0.999995;stroke-linecap:square"
          id="rect6753"
          width="5"
          height="15.999991"
@@ -1177,7 +1177,7 @@
          y="120"
          transform="scale(-1,1)" />
       <path
-         style="opacity:1;fill:#393745;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
+         style="opacity:1;fill:#3f3d4d;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
          id="path6755"
          sodipodi:type="arc"
          sodipodi:cx="-95"
@@ -1190,7 +1190,7 @@
          d="m -90,-120.00001 a 5,4.9685831 0 0 1 -5,4.96859 v -4.96859 z"
          transform="scale(-1)" />
       <path
-         style="opacity:1;fill:#393745;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
+         style="opacity:1;fill:#3f3d4d;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:square"
          id="path6757"
          sodipodi:type="arc"
          sodipodi:cx="-95"
@@ -1212,7 +1212,7 @@
        y="95"
        transform="rotate(-90)" />
     <rect
-       style="fill:#393745;fill-opacity:1;stroke-width:0.999987;stroke-linecap:square"
+       style="fill:#3f3d4d;fill-opacity:1;stroke-width:0.999987;stroke-linecap:square"
        id="decoration-maximized-inactive-center"
        width="26"
        height="45"

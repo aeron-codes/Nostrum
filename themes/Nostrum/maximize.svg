@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="16"
-     inkscape:cx="38.6875"
-     inkscape:cy="28.28125"
+     inkscape:zoom="45.254834"
+     inkscape:cx="60.369241"
+     inkscape:cy="33.001999"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -58,31 +58,25 @@
          cx="-936.99994"
          cy="-527"
          r="9" />
-      <circle
-         style="opacity:0.3;fill:none;fill-opacity:0.296217;stroke:#ffffff;stroke-width:0.999998;stroke-linecap:square;stroke-opacity:1"
-         id="circle1679"
-         cx="-936.99994"
-         cy="-527"
-         r="7.4999418" />
       <g
          id="g4874"
          transform="translate(31,-14)">
         <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:square;stroke-opacity:0.300803"
+           style="opacity:0.85;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-opacity:0.300803"
            id="rect4866"
-           width="5.9998784"
+           width="7.9998775"
            height="1"
-           x="-970.99988"
+           x="-971.99988"
            y="-517" />
         <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="opacity:0.85;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-opacity:0.300803"
            id="rect4868"
-           width="6.0000005"
+           width="7.999999"
            height="1"
-           x="-971"
-           y="-510" />
+           x="-971.99994"
+           y="-509.99997" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
+           style="opacity:0.85;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
            id="rect4870"
            width="6.0000005"
            height="1"
@@ -90,7 +84,7 @@
            y="964"
            transform="rotate(90)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
+           style="opacity:0.85;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
            id="rect4872"
            width="6.0000005"
            height="1"
@@ -109,17 +103,11 @@
          x="-925"
          y="-539" />
       <circle
-         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="circle2043"
          cx="-913"
          cy="-527"
          r="9" />
-      <circle
-         style="opacity:0.4;fill:none;fill-opacity:0.296217;stroke:#ffffff;stroke-width:0.999997;stroke-linecap:square;stroke-opacity:1"
-         id="circle2045"
-         cx="-913"
-         cy="-527"
-         r="7.5000029" />
       <g
          id="g4948"
          transform="translate(55,-14)">
@@ -165,37 +153,31 @@
          x="-901"
          y="-539" />
       <circle
-         style="opacity:0.25;fill:#b3b3b3;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="circle3061"
          cx="-889"
          cy="-527"
          r="9" />
-      <circle
-         style="opacity:0.6;fill:none;fill-opacity:0.296217;stroke:#ffffff;stroke-width:0.999991;stroke-linecap:square;stroke-opacity:1"
-         id="circle3063"
-         cx="-889"
-         cy="-527"
-         r="7.5000229" />
       <g
          id="g5026"
          transform="translate(79,-14)"
          style="opacity:0.8">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
+           style="fill:#cacaca;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5018"
            width="7.9999995"
            height="1"
            x="-971.99994"
            y="-517" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
+           style="fill:#cacaca;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5020"
            width="7.9999995"
            height="1"
            x="-972"
            y="-510" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
+           style="fill:#cacaca;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5022"
            width="6.0000005"
            height="1"
@@ -203,7 +185,7 @@
            y="964"
            transform="rotate(90)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.8"
+           style="fill:#cacaca;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5024"
            width="6.0000005"
            height="1"
@@ -227,32 +209,26 @@
          cx="-936.99994"
          cy="-503"
          r="9" />
-      <circle
-         style="opacity:0.2;fill:none;fill-opacity:0.296217;stroke:#ffffff;stroke-width:0.999991;stroke-linecap:square;stroke-opacity:1"
-         id="circle1973"
-         cx="-936.99994"
-         cy="-503"
-         r="7.5000229" />
       <g
          id="g5108"
          transform="translate(31,10)"
          style="opacity:0.85">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.9"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5100"
            width="7.9999995"
            height="1"
            x="-971.99994"
            y="-517" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.9"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5102"
            width="7.9999995"
            height="1"
            x="-972"
            y="-510" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.9"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5104"
            width="6.0000005"
            height="1"
@@ -260,7 +236,7 @@
            y="964"
            transform="rotate(90)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.9"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5106"
            width="6.0000005"
            height="1"
@@ -279,37 +255,31 @@
          x="-924.99994"
          y="-515" />
       <circle
-         style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="circle2093"
          cx="-912.99994"
          cy="-503"
          r="9" />
-      <circle
-         style="opacity:0.3;fill:none;fill-opacity:0.296217;stroke:#ffffff;stroke-width:0.999991;stroke-linecap:square;stroke-opacity:1"
-         id="circle2095"
-         cx="-912.99994"
-         cy="-503"
-         r="7.5000229" />
       <g
          id="g5194"
          transform="translate(55,10)"
          style="opacity:0.85">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5186"
            width="7.9999995"
            height="1"
            x="-971.99994"
            y="-517" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5188"
            width="7.9999995"
            height="1"
            x="-972"
            y="-510" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5190"
            width="6.0000005"
            height="1"
@@ -317,7 +287,7 @@
            y="964"
            transform="rotate(90)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803"
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5192"
            width="6.0000005"
            height="1"
@@ -336,37 +306,31 @@
          x="-901"
          y="-515" />
       <circle
-         style="opacity:0.3;fill:#b3b3b3;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="circle3253"
          cx="-889"
          cy="-503"
          r="9" />
-      <circle
-         style="opacity:0.5;fill:none;fill-opacity:0.296217;stroke:#ffffff;stroke-width:0.999997;stroke-linecap:square;stroke-opacity:1"
-         id="circle3255"
-         cx="-889"
-         cy="-503"
-         r="7.5000029" />
       <g
          id="g5218"
          transform="translate(79,10)"
          style="opacity:0.65">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
+           style="fill:#b0b0b0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5210"
            width="7.9999995"
            height="1"
            x="-971.99994"
            y="-517" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
+           style="fill:#b0b0b0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5212"
            width="7.9999995"
            height="1"
            x="-972"
            y="-510" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
+           style="fill:#b0b0b0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5214"
            width="6.0000005"
            height="1"
@@ -374,7 +338,7 @@
            y="964"
            transform="rotate(90)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:0.65"
+           style="fill:#b0b0b0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:0.300803;opacity:1"
            id="rect5216"
            width="6.0000005"
            height="1"
