@@ -1,0 +1,12 @@
+interior=true
+interior.element=menuitem
+frame.element=menuitem
+frame=true
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
+frame.expansion=0
+text.toggle.color=white
+text.press.color=white
+text.normal.color=yellow
