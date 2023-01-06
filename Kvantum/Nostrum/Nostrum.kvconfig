@@ -6,11 +6,11 @@ alt_mnemonic=true
 animate_states=false
 attach_active_tab=true
 blurring=false
-bold_active_tab=false
+bold_active_tab=true
 button_contents_shift=true
 button_icon_size=16
 center_toolbar_handle=false
-check_size=14
+check_size=16
 click_behavior=1
 combo_as_lineedit=false
 combo_focus_rect=false
@@ -19,7 +19,7 @@ composite=true
 contrast=1.00
 dialog_button_layout=0
 fill_rubberband=false
-groupbox_top_label=true
+groupbox_top_label=false
 group_toolbar_buttons=false
 hide_combo_checkboxes=false
 inline_spin_indicators=true
@@ -31,7 +31,7 @@ layout_spacing=5
 left_tabs=true
 menubar_mouse_tracking=true
 menu_shadow_depth=8
-merge_menubar_with_toolbar=true
+merge_menubar_with_toolbar=false
 min_height=22
 min_width=22
 no_active_tab_separator=true
@@ -81,7 +81,7 @@ x11drag=all
 [GeneralColors]
 window.color=#1e1c2c
 inactive.window.color=#1e1c2c
-base.color=#1c1a28
+base.color=#16141e
 alt.base.color=#1c1a28
 button.color=#e2e2e2
 light.color=white
@@ -149,9 +149,14 @@ frame.element=bttn
 indicator.size=8
 text.focus.color=white
 text.press.color=#e4e4e4
+text.toggle.color=white
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 
 [GenericFrame]
 #inherits=PanelButtonCommand
@@ -181,23 +186,15 @@ inherits=PanelButtonCommand
 
 
 [Tab]
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
-focusFrame=false
-frame.expansion=0
-indicator.size=10
-interior.element=tab
-frame.element=tab
+inherits=PanelButtonCommand
 
 [TabFrame]
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
-frame.element=tbf
-interior.element=tbf
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
+frame.element=common
+interior.element=common
 frame=false
 interior=false
 
@@ -215,25 +212,25 @@ indicator.size=12
 [GroupBox]
 interior=true
 frame=true
-frame.element=tbf
-interior.element=tbf
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
-text.bold=false
+frame.element=gbx
+interior.element=gbx
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
+text.bold=true
 frame.expansion=0
-text.normal.color=#1c51c0
+text.normal.color=white
 
 [TabBarFrame]
-frame=false
+frame=true
 frame.element=tbf
-interior=false
+interior=true
 interior.element=tbf
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
 
 [SizeGrip]
 inherits=PanelButtonCommand
@@ -249,10 +246,10 @@ frame.top=5
 frame.bottom=5
 indicator.size=5
 frame.expansion=0
-interior.element=tlbar
+interior.element=tbf
 interior=true
 frame=true
-frame.element=tlbar
+frame.element=tbf
 indicator.element=tbar
 
 [Scrollbar]
@@ -415,12 +412,8 @@ frame.element=mnu
 text.normal.color=#202020
 
 [RadioButton]
-text.normal.color=black
-text.focus.color=#202020
 
 [CheckBox]
-text.normal.color=black
-text.focus.color=#202020
 
 [Dock]
 interior.element=dframe

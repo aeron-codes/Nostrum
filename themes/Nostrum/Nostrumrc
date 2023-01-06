@@ -9,8 +9,8 @@ Shadow=true
 [Layout]
 TitleEdgeTop=0
 TitleEdgeBottom=0
-TitleEdgeLeft=7
-TitleEdgeRight=7
+TitleEdgeLeft=10
+TitleEdgeRight=10
 TitleBorderLeft=12
 TitleBorderRight=12
 TitleHeight=34
