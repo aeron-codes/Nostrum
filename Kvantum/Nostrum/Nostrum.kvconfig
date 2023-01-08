@@ -59,7 +59,7 @@ spin_button_width=12
 splitter_width=6
 spread_header=true
 spread_menuitems=true
-spread_progressbar=false
+spread_progressbar=true
 square_combo_button=true
 submenu_delay=250
 submenu_overlap=1
@@ -67,14 +67,14 @@ tab_button_extra_margin=0
 toolbar_icon_size=22
 toolbar_interior_spacing=0
 toolbar_item_spacing=0
-toolbar_separator_thickness=3
+toolbar_separator_thickness=5
 toolbutton_style=0
 tooltip_delay=-1
 tooltip_shadow_depth=4
 transient_groove=false
 transient_scrollbar=false
 translucent_windows=true
-tree_branch_line=true
+tree_branch_line=false
 vertical_spin_indicators=true
 x11drag=all
 
@@ -84,25 +84,25 @@ inactive.window.color=#1e1c2c
 base.color=#16141e
 alt.base.color=#1c1a28
 button.color=#e2e2e2
-light.color=white
-mid.light.color=#d8cbb0
-dark.color=#a0a0a0
-mid.color=#d8cbb0
-inactive.highlight.color=#6d94df
+light.color=#53525f
+mid.light.color=#53525f
+dark.color=#373246
+mid.color=#b0b0b0
+inactive.highlight.color=#b9553b
 text.color=#f8f8f8
 inactive.text.color=#eaeaea
 window.text.color=#f8f8f8
 inactive.window.text.color=#eaeaea
 button.text.color=#f8f8f8
-disabled.text.color=#aaaab0
+disabled.text.color=#717083
 tooltip.text.color=black
 highlight.text.color=white
 inactive.highlight.text.color=#eaeaea
-highlight.color=#3e9de8
+highlight.color=#fe7551
 link.color=#0000ff
 link.visited.color=#ff00ff
 progress.indicator.text.color=white
-progress.inactive.indicator.text.color=black
+progress.inactive.indicator.text.color=white
 
 [Hacks]
 transparent_dolphin_view=false
@@ -175,7 +175,7 @@ inherits=GenericFrame
 
 [IndicatorSpinBox]
 indicator.element=spind
-indicator.size=8
+indicator.size=10
 
 [DropDownButton]
 inherits=PanelButtonCommand
@@ -198,15 +198,15 @@ frame=false
 interior=false
 
 [TreeExpander]
-indicator.size=9
+indicator.size=10
 indicator.element=tree
 
 [HeaderSection]
-frame.element=cbox
-interior.element=cbox
+frame.element=bttn
+interior.element=bttn
 frame=true
-indicator.element=harrow
-indicator.size=12
+indicator.element=spind
+indicator.size=10
 
 [GroupBox]
 interior=true
@@ -285,12 +285,12 @@ interior=true
 [ProgressbarContents]
 frame=true
 interior=true
-frame.element=pbc
-interior.element=pbc
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.element=pbcc
+interior.element=pbcc
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
 
 [ItemView]
 #text.toggle.color=green
@@ -325,7 +325,7 @@ frame.bottom=5
 frame.left=5
 frame.right=5
 indicator.element=marrow
-indicator.size=8
+indicator.size=10
 text.margin.top=1
 text.margin.bottom=1
 
@@ -408,14 +408,14 @@ text.normal.color=#202020
 [CheckBox]
 
 [Dock]
-interior.element=dframe
-frame.element=dframe
+interior.element=mnu
+frame.element=mnu
 frame=true
 interior=true
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
 indicator.element=dock
 indicator.size=8
 
