@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="22.627417"
-     inkscape:cx="90.2666"
-     inkscape:cy="103.79002"
+     inkscape:zoom="11.313709"
+     inkscape:cx="288.32279"
+     inkscape:cy="31.156893"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -4064,5 +4064,68 @@
        xlink:href="#scrollslide-pressed-topright"
        id="scrollslide-pressed-bottomleft"
        transform="rotate(180,311.5,541.5)" />
+    <g
+       id="header-separator">
+      <rect
+         transform="scale(-1)"
+         style="fill:none;fill-opacity:0.561947;stroke-width:1"
+         id="rect1440"
+         x="-413"
+         y="-550"
+         width="5"
+         height="15.000006" />
+      <rect
+         transform="scale(-1)"
+         id="rect14069"
+         x="-412"
+         y="-550"
+         width="3"
+         height="15.000016"
+         style="fill:#423d51;fill-opacity:1;stroke-width:1" />
+      <rect
+         transform="scale(-1)"
+         id="rect1442"
+         x="-411"
+         y="-550"
+         width="1"
+         height="15.000004"
+         style="fill:#8e8aad;fill-opacity:1;stroke-width:1" />
+    </g>
+    <g
+       id="splitter-grip-normal"
+       transform="translate(693,-565.51967)">
+      <rect
+         y="1105.5197"
+         x="-223"
+         height="20"
+         width="5"
+         id="rect10130"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="1105.5197"
+         x="-222"
+         height="19.999987"
+         width="3"
+         id="rect10121"
+         style="opacity:1;fill:#9391a2;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="splitter-grip-focused"
+       transform="translate(698,-565.51966)">
+      <rect
+         y="1105.5197"
+         x="-223"
+         height="20"
+         width="5"
+         id="rect18804"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="1105.5197"
+         x="-222"
+         height="19.999987"
+         width="3"
+         id="rect18806"
+         style="opacity:1;fill:#f8f8f8;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
