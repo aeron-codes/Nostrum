@@ -58,7 +58,7 @@ small_icon_size=16
 spin_button_width=12
 splitter_width=6
 spread_header=true
-spread_menuitems=true
+spread_menuitems=false
 spread_progressbar=true
 square_combo_button=true
 submenu_delay=250
@@ -90,14 +90,14 @@ dark.color=#373246
 mid.color=#b0b0b0
 inactive.highlight.color=#b9553b
 text.color=#f8f8f8
-inactive.text.color=#eaeaea
+inactive.text.color=#cacaca
 window.text.color=#f8f8f8
-inactive.window.text.color=#eaeaea
+inactive.window.text.color=#cacaca
 button.text.color=#f8f8f8
 disabled.text.color=#717083
 tooltip.text.color=black
 highlight.text.color=white
-inactive.highlight.text.color=#eaeaea
+inactive.highlight.text.color=#cacaca
 highlight.color=#fe7551
 link.color=#0000ff
 link.visited.color=#ff00ff
@@ -150,6 +150,9 @@ indicator.size=8
 text.focus.color=white
 text.press.color=#e4e4e4
 text.toggle.color=white
+text.normal.inactive.color=#cacaca
+indicator.element=marrow
+indicator.size=10
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -205,7 +208,7 @@ indicator.element=tree
 frame.element=bttn
 interior.element=bttn
 frame=true
-indicator.element=spind
+indicator.element=marrow
 indicator.size=10
 
 [GroupBox]
@@ -293,17 +296,17 @@ frame.left=5
 frame.right=5
 
 [ItemView]
-#text.toggle.color=green
-#text.press.color=white
-#text.normal.color=black
-#text.focus.color=white
-text.toggle.inactive.color=#e4e4e4
-text.press.inactive.color=#e4e4e4
-frame.expansion=0
+text.press.color=white
+text.focus.color=white
+text.toggle.inactive.color=#f8f8f8
 interior=true
 interior.element=iview
 frame.element=iview
-frame=false
+frame=true
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 
 [Menu]
 frame.top=5
@@ -340,6 +343,7 @@ frame=true
 frame.element=mbitm
 text.margin.top=1
 text.margin.bottom=1
+inactive.text.color=blue
 
 [MenuBar]
 interior=false
@@ -351,7 +355,8 @@ frame.bottom=5
 frame.left=5
 frame.right=5
 frame.expansion=0
-text.normal.color=#F9F9F9
+text.normal.color=#f8f8f8
+text.normal.inactive.color=#cacaca
 
 
 [TitleBar]
