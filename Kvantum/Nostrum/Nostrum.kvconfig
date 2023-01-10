@@ -100,8 +100,8 @@ tooltip.text.color=#f8f8f8
 highlight.text.color=white
 inactive.highlight.text.color=#cacaca
 highlight.color=#fe7551
-link.color=#0000ff
-link.visited.color=#ff00ff
+link.color=#8bbfd8
+link.visited.color=#ffb39f
 progress.indicator.text.color=white
 progress.inactive.indicator.text.color=white
 
