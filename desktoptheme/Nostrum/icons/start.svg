@@ -26,8 +26,8 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="9.5144355"
-     inkscape:cx="50.659863"
-     inkscape:cy="30.795311"
+     inkscape:cx="50.764967"
+     inkscape:cy="31.005518"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -84,7 +84,7 @@
          x="505"
          y="880" />
       <circle
-         style="opacity:0.2;fill:#f8f6ff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.2;fill:#f4f0ff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="path970"
          cx="529"
          cy="904"
@@ -99,7 +99,7 @@
          d="m 529,882.99996 a 21,21 0 0 0 -21,21 21,21 0 0 0 6.12891,14.75195 A 21,21 0 0 1 509,904.99996 a 21,21 0 0 1 21,-21 21,21 0 0 1 14.33789,5.66211 A 21,21 0 0 0 529,882.99996 Z" />
       <path
          id="path854"
-         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          d="m 530,925.99996 a 21,21 0 0 0 21,-21 21,21 0 0 0 -6.12891,-14.75195 21,21 0 0 1 5.12891,13.75195 21,21 0 0 1 -21,21 21,21 0 0 1 -14.33789,-5.66211 A 21,21 0 0 0 530,925.99996 Z" />
     </g>
   </g>

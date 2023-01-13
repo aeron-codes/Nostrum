@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="29.000019"
+   height="29"
+   viewBox="0 0 29.000019 29.000001"
+   version="1.1"
+   id="svg17788"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="tooltip.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17790"
+     pagecolor="#d1d1d1"
+     bordercolor="#6b6b6b"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     shape-rendering="crispEdges"
+     inkscape:zoom="13.455444"
+     inkscape:cx="41.916121"
+     inkscape:cy="17.390731"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2664"
+       originx="-523.00001"
+       originy="-633.00002" />
+  </sodipodi:namedview>
+  <defs
+     id="defs17785" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-523.00001,-633)">
+    <rect
+       style="opacity:0.82;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       id="center"
+       width="15"
+       height="15"
+       x="530"
+       y="640" />
+    <g
+       id="top"
+       transform="translate(430.00003,510)">
+      <rect
+         style="opacity:0.82;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         id="rect2325"
+         width="15"
+         height="7"
+         x="100"
+         y="123" />
+      <rect
+         style="opacity:1;fill:#393939;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         id="rect2319"
+         width="15"
+         height="1"
+         x="100"
+         y="123" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#top"
+       id="bottom"
+       transform="matrix(1,0,0,-1,0,1295)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#top"
+       id="right"
+       transform="rotate(90,537.50003,647.49999)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#top"
+       id="left"
+       transform="rotate(-90,537.50003,647.49999)" />
+    <g
+       id="topright"
+       transform="translate(430.00003,510)">
+      <path
+         style="opacity:0.82;fill:#212121;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         id="path3056"
+         sodipodi:type="arc"
+         sodipodi:cx="115"
+         sodipodi:cy="-130"
+         sodipodi:rx="7"
+         sodipodi:ry="7"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 122,-130 a 7,7 0 0 1 -7,7 v -7 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path2909"
+         style="opacity:1;fill:#393939;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         d="m 115,123 v 1 a 6,6 0 0 1 6,6 h 1 a 7,7 0 0 0 -7,-7 z" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#topright"
+       id="topleft"
+       transform="matrix(-1,0,0,1,1075.0001,3.984375e-8)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#topright"
+       id="bottomright"
+       transform="matrix(1,0,0,-1,0,1295)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#topright"
+       id="bottomleft"
+       transform="rotate(180,537.50002,647.49998)" />
+  </g>
+</svg>
