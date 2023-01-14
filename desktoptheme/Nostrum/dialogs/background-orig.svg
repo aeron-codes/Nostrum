@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="13.459778"
-     inkscape:cx="92.423518"
-     inkscape:cy="31.204082"
+     inkscape:zoom="26.919555"
+     inkscape:cx="91.606269"
+     inkscape:cy="25.409038"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -436,6 +436,78 @@
        height="1"
        x="156"
        y="95.100014"
+       rx="0.28995323"
+       ry="0.024732694" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:2;stroke-linecap:round"
+       id="hint-top-inset"
+       width="1"
+       height="7"
+       x="188"
+       y="87"
+       rx="0.028995324"
+       ry="0.17312886" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:2;stroke-linecap:round"
+       id="hint-bottom-inset"
+       width="1"
+       height="0.99999696"
+       x="188"
+       y="97"
+       rx="0.028995324"
+       ry="0.02473262" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:2;stroke-linecap:round"
+       id="north-hint-right-inset"
+       width="7"
+       height="1"
+       x="190"
+       y="95"
+       rx="0.20296727"
+       ry="0.024732694" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:2;stroke-linecap:round"
+       id="north-hint-left-inset"
+       width="7"
+       height="1"
+       x="180"
+       y="95"
+       rx="0.20296727"
+       ry="0.024732694" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:1.99999;stroke-linecap:round"
+       id="shadow-hint-top-inset"
+       width="1"
+       height="10"
+       x="209"
+       y="84"
+       rx="0.028995324"
+       ry="0.24732694" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:1.99999;stroke-linecap:round"
+       id="shadow-hint-bottom-inset"
+       width="1"
+       height="10"
+       x="209"
+       y="97"
+       rx="0.028995324"
+       ry="0.24732694" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:1.99999;stroke-linecap:round"
+       id="shadow-hint-right-inset"
+       width="10"
+       height="1"
+       x="211"
+       y="95"
+       rx="0.28995323"
+       ry="0.024732694" />
+    <rect
+       style="opacity:0.9;fill:#008080;stroke:none;stroke-width:1.99999;stroke-linecap:round"
+       id="shadow-hint-left-inset"
+       width="10"
+       height="1"
+       x="198"
+       y="95"
        rx="0.28995323"
        ry="0.024732694" />
     <g

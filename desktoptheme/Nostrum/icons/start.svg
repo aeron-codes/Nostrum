@@ -26,8 +26,8 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="9.5144355"
-     inkscape:cx="50.764967"
-     inkscape:cy="31.005518"
+     inkscape:cx="81.350071"
+     inkscape:cy="21.966621"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -43,37 +43,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-505,-880)">
-    <g
-       id="22-22-start-here-kde"
-       transform="translate(-32,2)">
-      <rect
-         style="opacity:0.15;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
-         id="rect2498"
-         width="22"
-         height="22"
-         x="587"
-         y="878"
-         ry="2"
-         rx="2" />
-      <path
-         sodipodi:type="star"
-         style="opacity:0.75;fill:#f8f6ff;fill-opacity:1;stroke:#f8f8f8;stroke-width:10.65213291;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="path2331"
-         inkscape:flatsided="false"
-         sodipodi:sides="3"
-         sodipodi:cx="575"
-         sodipodi:cy="925"
-         sodipodi:r1="19.026299"
-         sodipodi:r2="9.5131493"
-         sodipodi:arg1="0"
-         sodipodi:arg2="1.0471976"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 594.0263,925 -14.26973,8.23863 -14.26972,8.23863 V 925 908.52274 l 14.26973,8.23863 z"
-         inkscape:transform-center-x="-1.0939533"
-         transform="matrix(0.22998795,0,0,0.23949794,465.38111,667.38287)"
-         inkscape:transform-center-y="5.8000002e-06" />
-    </g>
     <g
        id="start-here-kde">
       <rect
@@ -91,7 +60,7 @@
          r="21" />
       <path
          style="opacity:0.8;fill:none;stroke:#f8f8f8;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="M 524.70631,911.90002 537.35717,904.00001 524.70631,896.1"
+         d="M 523.60631,911.90002 536.25717,904.00001 523.60631,896.1"
          id="path1667" />
       <path
          id="circle801"
@@ -101,6 +70,37 @@
          id="path854"
          style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          d="m 530,925.99996 a 21,21 0 0 0 21,-21 21,21 0 0 0 -6.12891,-14.75195 21,21 0 0 1 5.12891,13.75195 21,21 0 0 1 -21,21 21,21 0 0 1 -14.33789,-5.66211 A 21,21 0 0 0 530,925.99996 Z" />
+    </g>
+    <g
+       id="22-22-start-here-kde"
+       transform="translate(428.02314,761.49996)">
+      <rect
+         style="opacity:0.8;fill:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
+         id="rect14531"
+         width="21.999998"
+         height="21.999998"
+         x="126.99999"
+         y="118.99999"
+         rx="0.18595946"
+         ry="0.29837874" />
+      <path
+         sodipodi:type="star"
+         style="opacity:0.9;fill:#f8f8f8;fill-opacity:1;stroke-width:1.4197;stroke-linecap:round;stroke-linejoin:round"
+         id="path16081"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="133"
+         sodipodi:cy="128"
+         sodipodi:r1="8.0622578"
+         sodipodi:r2="4.0311289"
+         sodipodi:arg1="-0.51914611"
+         sodipodi:arg2="0.52805144"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 140,124 -3.51795,6.03109 -3.51795,6.03109 L 129.5,130 l -3.4641,-6.06218 6.98205,0.0311 z"
+         inkscape:transform-center-x="-0.015424757"
+         inkscape:transform-center-y="1.1546999"
+         transform="matrix(0.85934635,0,0,0.57735029,23.69151,55.444463)" />
     </g>
   </g>
 </svg>

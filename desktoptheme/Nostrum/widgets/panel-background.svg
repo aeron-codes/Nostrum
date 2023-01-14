@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="4.7588288"
-     inkscape:cx="116.62533"
-     inkscape:cy="34.462261"
+     inkscape:zoom="9.5176576"
+     inkscape:cx="1.1557466"
+     inkscape:cy="1.3658823"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -149,70 +149,70 @@
      id="layer1"
      transform="translate(-93,-84)">
     <rect
-       style="opacity:0.82;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:0.88;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="center"
        width="15"
        height="15"
        x="100"
        y="130" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-center"
        width="15"
        height="15"
        x="100"
        y="90" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-left"
        width="5"
        height="15"
        x="95"
        y="90" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-right"
        width="5"
        height="15"
        x="115"
        y="90" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-top"
        width="15"
        height="5"
        x="100"
        y="85" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-bottom"
        width="15"
        height="5"
        x="100"
        y="105" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-topleft"
        width="5"
        height="5"
        x="95"
        y="85" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-topright"
        width="5"
        height="5"
        x="115"
        y="85" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-bottomright"
        width="5"
        height="5"
        x="115"
        y="105" />
     <rect
-       style="opacity:0.95;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:1;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="north-bottomleft"
        width="5"
        height="5"
@@ -546,7 +546,7 @@
     <g
        id="top">
       <rect
-         style="opacity:0.82;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.88;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2325"
          width="15"
          height="7"
@@ -581,7 +581,7 @@
     <g
        id="topright">
       <path
-         style="opacity:0.82;fill:#212121;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         style="opacity:0.88;fill:#212121;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
          id="path3056"
          sodipodi:type="arc"
          sodipodi:cx="115"
