@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="94"
+   height="29"
+   viewBox="0 0 94.000001 29.000001"
+   version="1.1"
+   id="svg17788"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="tabbar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17790"
+     pagecolor="#d1d1d1"
+     bordercolor="#6b6b6b"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     shape-rendering="crispEdges"
+     inkscape:zoom="9.5176573"
+     inkscape:cx="57.419592"
+     inkscape:cy="37.614298"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2491"
+       originx="-13"
+       originy="-88.000003" />
+  </sodipodi:namedview>
+  <defs
+     id="defs17785" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13,-88)">
+    <rect
+       style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="south-active-tab-center"
+       width="15"
+       height="15"
+       x="20"
+       y="95" />
+    <rect
+       y="101"
+       x="42"
+       height="1"
+       width="7"
+       id="south-active-tab-hint-left-margin"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
+    <rect
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="south-active-tab-hint-right-margin"
+       width="7"
+       height="1"
+       x="52"
+       y="101" />
+    <rect
+       y="93"
+       x="50"
+       height="7"
+       width="1"
+       id="south-active-tab-hint-top-margin"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
+    <rect
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="south-active-tab-hint-bottom-margin"
+       width="1"
+       height="7"
+       x="50"
+       y="103" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-top"
+       id="south-active-tab-bottom"
+       transform="matrix(1,0,0,-1,0,205)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-top"
+       id="south-active-tab-right"
+       transform="rotate(90,27.5,102.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-top"
+       id="south-active-tab-left"
+       transform="rotate(-90,27.5,102.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-topright"
+       id="south-active-tab-topleft"
+       transform="matrix(-1,0,0,1,55,0)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-topright"
+       id="south-active-tab-bottomright"
+       transform="matrix(1,0,0,-1,0,205)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-topright"
+       id="south-active-tab-bottomleft"
+       transform="rotate(180,27.5,102.5)" />
+    <g
+       id="south-active-tab-top">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4513"
+         width="15"
+         height="7"
+         x="20"
+         y="88"
+         rx="0.21428572"
+         ry="0.1" />
+      <rect
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4507"
+         width="15"
+         height="5"
+         x="20"
+         y="90" />
+    </g>
+    <g
+       id="south-active-tab-topright">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4665"
+         width="7"
+         height="7"
+         x="35"
+         y="88"
+         rx="0.1"
+         ry="0.1" />
+      <path
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4607"
+         sodipodi:type="arc"
+         sodipodi:cx="35"
+         sodipodi:cy="-95"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+    </g>
+    <rect
+       y="101"
+       x="61"
+       height="1"
+       width="7"
+       id="north-active-tab-hint-left-margin"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
+    <rect
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="north-active-tab-hint-rightmargin"
+       width="7"
+       height="1"
+       x="71"
+       y="101" />
+    <rect
+       y="93"
+       x="69"
+       height="7"
+       width="1"
+       id="north-active-tab-hint-top-margin"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
+    <rect
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="north-active-tab-hint-bottom-margin"
+       width="1"
+       height="7"
+       x="69"
+       y="103" />
+    <rect
+       style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="north-active-tab-center"
+       width="15"
+       height="15"
+       x="85"
+       y="95" />
+    <g
+       id="north-active-tab-top"
+       transform="translate(65)">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect7459"
+         width="15"
+         height="7"
+         x="20"
+         y="88"
+         rx="0.21428572"
+         ry="0.1" />
+      <rect
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect7461"
+         width="15"
+         height="5"
+         x="20"
+         y="90" />
+    </g>
+    <g
+       id="north-active-tab-topright"
+       transform="translate(65)">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect7465"
+         width="7"
+         height="7"
+         x="35"
+         y="88"
+         rx="0.1"
+         ry="0.1" />
+      <path
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path7467"
+         sodipodi:type="arc"
+         sodipodi:cx="35"
+         sodipodi:cy="-95"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#north-active-tab-top"
+       id="north-active-tab-bottom"
+       transform="matrix(1,0,0,-1,0,205)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#north-active-tab-top"
+       id="north-active-tab-right"
+       transform="rotate(90,92.5,102.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#north-active-tab-top"
+       id="north-active-tab-left"
+       transform="rotate(-90,92.5,102.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#north-active-tab-topright"
+       id="north-active-tab-topleft"
+       transform="matrix(-1,0,0,1,185,0)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#north-active-tab-topright"
+       id="north-active-tab-bottomright"
+       transform="matrix(1,0,0,-1,0,205)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#north-active-tab-topright"
+       id="north-active-tab-bottomleft"
+       transform="rotate(180,92.5,102.5)" />
+  </g>
+</svg>

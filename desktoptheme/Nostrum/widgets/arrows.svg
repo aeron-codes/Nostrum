@@ -11,6 +11,7 @@
    sodipodi:docname="arrows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -26,8 +27,8 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="38.057742"
-     inkscape:cx="135.76738"
-     inkscape:cy="130.27573"
+     inkscape:cx="144.17566"
+     inkscape:cy="140.78607"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -69,5 +70,23 @@
          inkscape:transform-center-y="0.82732413"
          transform="matrix(0.64487698,0,0,0.413662,51.717223,75.716247)" />
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#down-arrow"
+       id="up-arrow"
+       transform="matrix(1,0,0,-1,0,274)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#down-arrow"
+       id="right-arrow"
+       transform="rotate(-90,145,122)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#down-arrow"
+       id="left-arrow"
+       transform="rotate(90,137.5,144.5)" />
   </g>
 </svg>

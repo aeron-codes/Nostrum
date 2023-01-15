@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="13.455444"
-     inkscape:cx="41.916121"
-     inkscape:cy="17.390731"
+     inkscape:zoom="38.057743"
+     inkscape:cx="24.147517"
+     inkscape:cy="7.5411724"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -61,7 +61,7 @@
          x="100"
          y="123" />
       <rect
-         style="opacity:1;fill:#393939;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.5;fill:#393939;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2319"
          width="15"
          height="1"
@@ -104,7 +104,7 @@
          transform="scale(1,-1)" />
       <path
          id="path2909"
-         style="opacity:1;fill:#393939;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         style="opacity:0.5;fill:#393939;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
          d="m 115,123 v 1 a 6,6 0 0 1 6,6 h 1 a 7,7 0 0 0 -7,-7 z" />
     </g>
     <use
