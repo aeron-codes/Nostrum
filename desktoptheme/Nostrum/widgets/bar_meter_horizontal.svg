@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="15"
+   viewBox="0 0 24 15"
+   version="1.1"
+   id="svg17788"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="bar_meter_horizontal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17790"
+     pagecolor="#d1d1d1"
+     bordercolor="#6b6b6b"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     shape-rendering="crispEdges"
+     inkscape:zoom="76.115484"
+     inkscape:cx="15.804931"
+     inkscape:cy="8.7630002"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6647"
+       originx="-382"
+       originy="-561.00002" />
+  </sodipodi:namedview>
+  <defs
+     id="defs17785" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-382,-561)">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-inactive-top"
+       id="bar-inactive-bottom"
+       transform="matrix(1,0,0,-1,0,1143)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-inactive-topright"
+       id="bar-inactive-topleft"
+       transform="matrix(-1,0,0,1,773,0)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-inactive-topright"
+       id="bar-inactive-bottomright"
+       transform="matrix(1,0,0,-1,0,1143)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-inactive-topright"
+       id="bar-inactive-bottomleft"
+       transform="rotate(180,386.5,571.49999)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-inactive-center"
+       id="bar-inactive-right"
+       transform="translate(3)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-inactive-center"
+       id="bar-inactive-left"
+       transform="translate(-3)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-active-top"
+       id="bar-active-bottom"
+       transform="matrix(1,0,0,-1,0,1143)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-active-center"
+       id="bar-active-left"
+       transform="translate(-3)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-active-center"
+       id="bar-active-right"
+       transform="translate(3)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-active-topright"
+       id="bar-active-topleft"
+       transform="matrix(-1,0,0,1,803,0)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-active-topright"
+       id="bar-active-bottomright"
+       transform="matrix(1,0,0,-1,0,1143)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bar-active-topright"
+       id="bar-active-bottomleft"
+       transform="rotate(180,401.5,571.5)" />
+    <rect
+       style="fill:#5e5d6a;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+       id="bar-inactive-center"
+       width="3"
+       height="3"
+       x="385"
+       y="570" />
+    <g
+       id="bar-inactive-top"
+       transform="translate(330,545)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6635"
+         width="3"
+         height="3"
+         x="55"
+         y="22" />
+      <rect
+         style="fill:#5e5d6a;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6637"
+         width="3"
+         height="2"
+         x="55"
+         y="23" />
+    </g>
+    <g
+       id="bar-inactive-topright"
+       transform="translate(320,544)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6641"
+         width="3"
+         height="3"
+         x="68"
+         y="23" />
+      <path
+         style="fill:#5e5d6a;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         id="path6643"
+         sodipodi:type="arc"
+         sodipodi:cx="68"
+         sodipodi:cy="-26"
+         sodipodi:rx="3"
+         sodipodi:ry="2"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 71,-26 a 3,2 0 0 1 -3,2 v -2 z"
+         transform="scale(1,-1)" />
+    </g>
+    <rect
+       style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+       id="bar-active-center"
+       width="3"
+       height="3"
+       x="400"
+       y="570" />
+    <g
+       id="bar-active-top"
+       transform="translate(345,545)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6720"
+         width="3"
+         height="3"
+         x="55"
+         y="22" />
+      <rect
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6722"
+         width="3"
+         height="2"
+         x="55"
+         y="23" />
+    </g>
+    <g
+       id="bar-active-topright"
+       transform="translate(335,544)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6726"
+         width="3"
+         height="3"
+         x="68"
+         y="23" />
+      <path
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         id="path6728"
+         sodipodi:type="arc"
+         sodipodi:cx="68"
+         sodipodi:cy="-26"
+         sodipodi:rx="3"
+         sodipodi:ry="2"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 71,-26 a 3,2 0 0 1 -3,2 v -2 z"
+         transform="scale(1,-1)" />
+    </g>
+    <rect
+       id="hint-bar-size"
+       height="6"
+       style="fill:#008000;fill-opacity:1"
+       width="6"
+       x="391"
+       y="561" />
+  </g>
+</svg>
