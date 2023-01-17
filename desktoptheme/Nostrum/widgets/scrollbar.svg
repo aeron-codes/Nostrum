@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="13.455444"
-     inkscape:cx="27.200887"
-     inkscape:cy="24.748348"
+     inkscape:zoom="26.910888"
+     inkscape:cx="25.900297"
+     inkscape:cy="12.374174"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -163,21 +163,21 @@
        x="586"
        y="553" />
     <rect
-       style="opacity:1;fill:#bcbbcf;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:1;fill:#b3b3bf;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        id="mouseover-slider-center"
        width="3"
        height="3"
        x="570"
        y="550" />
     <rect
-       style="opacity:1;fill:#bcbbcf;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:1;fill:#b3b3bf;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        id="mouseover-slider-top"
        width="3"
        height="3"
        x="570"
        y="547" />
     <path
-       style="opacity:1;fill:#bcbbcf;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:1;fill:#b3b3bf;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
        id="mouseover-slider-topright"
        sodipodi:type="arc"
        sodipodi:cx="573"

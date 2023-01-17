@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="793.70081"
-   height="1122.5197"
-   viewBox="0 0 793.70081 1122.5197"
+   width="5"
+   height="1.0000007"
+   viewBox="0 0 5 1.0000008"
    version="1.1"
    id="svg17788"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,22 +25,25 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="152.23097"
-     inkscape:cx="115.94881"
-     inkscape:cy="109.97762"
+     inkscape:zoom="38.057743"
+     inkscape:cx="8.1192414"
+     inkscape:cy="0.34158621"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid3587" />
+       id="grid3587"
+       originx="-111"
+       originy="-110.00001" />
   </sodipodi:namedview>
   <defs
      id="defs17785" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-111,-110)">
     <rect
-       style="opacity:1;fill:#343443;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       style="opacity:1;fill:#343443;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round"
        id="horizontal-line"
        width="1.0000007"
        height="1.0000002"
@@ -49,7 +52,7 @@
        rx="0.010526323"
        ry="0.033333339" />
     <rect
-       style="opacity:1;fill:#53525f;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       style="opacity:1;fill:#53525f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round"
        id="vertical-line"
        width="1.0000007"
        height="1.0000002"

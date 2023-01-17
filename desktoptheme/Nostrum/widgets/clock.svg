@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="197"
+   height="128"
+   viewBox="0 0 197 128.00001"
+   version="1.1"
+   id="svg17788"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="clock.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17790"
+     pagecolor="#d1d1d1"
+     bordercolor="#6b6b6b"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     shape-rendering="crispEdges"
+     inkscape:zoom="11.313708"
+     inkscape:cx="145.57561"
+     inkscape:cy="99.878834"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1539"
+       originx="-110"
+       originy="-395.00003" />
+  </sodipodi:namedview>
+  <defs
+     id="defs17785" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-110,-395)">
+    <g
+       id="ClockFace">
+      <circle
+         style="fill:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
+         id="circle1671"
+         cx="174"
+         cy="459"
+         r="64" />
+      <circle
+         style="opacity:0.2;fill:#f4f0ff;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+         id="circle1649"
+         cx="174"
+         cy="459"
+         r="47" />
+      <circle
+         style="opacity:0.6;fill:#ffffff;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         id="circle2445"
+         cx="174"
+         cy="421"
+         r="4" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle2445"
+         id="use8822"
+         transform="translate(0,76)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle2445"
+         id="use8833"
+         transform="translate(38,38)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle2445"
+         id="use8835"
+         transform="translate(-38,38)" />
+      <circle
+         style="opacity:0.4;fill:#cccccc;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         id="circle8891"
+         cx="380.18677"
+         cy="272.51437"
+         r="4"
+         inkscape:transform-center-y="-32.894823"
+         inkscape:transform-center-x="-19.009624"
+         transform="rotate(30)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#circle8891"
+         inkscape:transform-center-x="-32.910231"
+         inkscape:transform-center-y="-18.98294"
+         id="use8893"
+         transform="rotate(30,173.98459,458.99258)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8893"
+         inkscape:transform-center-x="-32.894828"
+         inkscape:transform-center-y="19.009627"
+         id="use8895"
+         transform="rotate(60,173.98459,458.99258)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8895"
+         inkscape:transform-center-x="-18.982945"
+         inkscape:transform-center-y="32.910234"
+         id="use8897"
+         transform="rotate(30,173.98459,458.99258)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8897"
+         inkscape:transform-center-x="19.009622"
+         inkscape:transform-center-y="32.894831"
+         id="use8899"
+         transform="rotate(60,173.98459,458.99258)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8899"
+         inkscape:transform-center-x="32.910229"
+         inkscape:transform-center-y="18.982948"
+         id="use8901"
+         transform="rotate(30,173.98459,458.99258)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8901"
+         inkscape:transform-center-x="32.894826"
+         inkscape:transform-center-y="-19.009619"
+         id="use8903"
+         transform="rotate(60,173.98459,458.99258)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8903"
+         inkscape:transform-center-x="18.982943"
+         inkscape:transform-center-y="-32.910226"
+         id="use8905"
+         transform="rotate(30,173.98459,458.99258)" />
+      <path
+         id="circle14348"
+         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+         d="m 216.47364,439.09364 a 47,47 0 0 1 4.46289,19.98633 47,47 0 0 1 -47,47 47,47 0 0 1 -41.95117,-26.00586 47,47 0 0 0 42.95117,28.00586 47,47 0 0 0 47,-47 47,47 0 0 0 -5.46289,-21.98633 z" />
+      <path
+         id="path14408"
+         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+         d="M 132.26289,481.18633 A 47,47 0 0 1 127.8,461.2 a 47,47 0 0 1 47,-47 47,47 0 0 1 41.95117,26.00586 A 47,47 0 0 0 173.8,412.2 a 47,47 0 0 0 -47,47 47,47 0 0 0 5.46289,21.98633 z" />
+    </g>
+    <g
+       id="MinuteHand"
+       transform="translate(79)">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect14613"
+         width="12"
+         height="45"
+         x="168"
+         y="459" />
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         id="rect14555"
+         width="8"
+         height="41"
+         x="170"
+         y="461"
+         ry="4"
+         rx="4" />
+    </g>
+    <g
+       id="HourHand"
+       transform="translate(91)">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect14642"
+         width="12"
+         height="45"
+         x="168"
+         y="459" />
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect14644"
+         width="8"
+         height="27"
+         x="170"
+         y="461"
+         ry="4"
+         rx="4" />
+    </g>
+    <circle
+       style="opacity:0.9;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="HandCenterScrew2"
+       cx="243.82767"
+       cy="439.34851"
+       r="8" />
+    <rect
+       y="435"
+       x="268"
+       height="7"
+       width="7"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:2.12132"
+       id="hint-hands-shadow-offset-to-south" />
+    <rect
+       id="hint-hands-shadows-offset-to-east"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:2.12132"
+       width="7"
+       height="7.0000005"
+       x="285"
+       y="435" />
+    <g
+       id="MinuteHandShadow"
+       transform="translate(67,-1.1071158e-5)">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect18509"
+         width="12"
+         height="45"
+         x="168"
+         y="459" />
+      <rect
+         style="opacity:0.12;fill:#000000;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         id="rect18511"
+         width="8"
+         height="41"
+         x="170"
+         y="461"
+         ry="4"
+         rx="4" />
+    </g>
+    <g
+       id="HourHandShadow"
+       transform="translate(103)">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect18623"
+         width="12"
+         height="45"
+         x="168"
+         y="459" />
+      <rect
+         style="opacity:0.12;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect18625"
+         width="8"
+         height="27"
+         x="170"
+         y="461"
+         ry="4"
+         rx="4" />
+    </g>
+    <g
+       id="SecondHand"
+       transform="translate(115)">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect21861"
+         width="12"
+         height="45"
+         x="168"
+         y="459" />
+      <rect
+         style="opacity:1;fill:#f97e5d;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         id="rect21863"
+         width="4.0000062"
+         height="41"
+         x="172"
+         y="461"
+         ry="2"
+         rx="2.0000031" />
+    </g>
+    <g
+       id="SecondHandShadow"
+       transform="translate(127)">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect22881"
+         width="12"
+         height="45"
+         x="168"
+         y="459" />
+      <rect
+         style="opacity:0.12;fill:#000000;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         id="rect22883"
+         width="4.0000062"
+         height="41"
+         x="172"
+         y="461"
+         ry="2"
+         rx="2.0000031" />
+    </g>
+  </g>
+</svg>

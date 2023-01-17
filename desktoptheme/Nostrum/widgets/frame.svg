@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="793.70081"
-   height="1122.5197"
-   viewBox="0 0 793.70081 1122.5197"
+   width="40"
+   height="25"
+   viewBox="0 0 40 25.000001"
    version="1.1"
    id="svg17788"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -26,20 +26,23 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="26.910887"
-     inkscape:cx="218.77762"
-     inkscape:cy="299.06112"
+     inkscape:zoom="19.028871"
+     inkscape:cx="16.606345"
+     inkscape:cy="7.8827589"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid2960" />
+       id="grid2960"
+       originx="-190"
+       originy="-290.00001" />
   </sodipodi:namedview>
   <defs
      id="defs17785" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-190,-290)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
        id="plain-center"
@@ -48,33 +51,33 @@
        x="210"
        y="295" />
     <rect
-       y="260"
-       x="191"
+       y="296"
+       x="196"
        height="5"
        width="1"
        id="plain-hint-top-margin"
-       style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999995" />
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999995" />
     <rect
-       style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999995"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999995"
        id="plain-hint-bottom-margin"
        width="1"
        height="5"
-       x="191"
-       y="271" />
+       x="196"
+       y="304" />
     <rect
-       style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997"
        id="plain-hint-left-margin"
        width="5"
        height="1"
-       x="181"
-       y="267" />
+       x="190"
+       y="302" />
     <rect
-       y="269"
+       y="302"
        x="198"
        height="1"
        width="5"
        id="plain-hint-right-margin"
-       style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997" />
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997" />
     <use
        x="0"
        y="0"
@@ -121,7 +124,7 @@
          x="210"
          y="290" />
       <rect
-         style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round;opacity:0.6"
+         style="opacity:0.6;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
          id="rect7650"
          width="15"
          height="1"
@@ -131,7 +134,7 @@
     <g
        id="plain-topright">
       <path
-         style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+         style="fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="path7736"
          sodipodi:type="arc"
          sodipodi:cx="225"
@@ -141,11 +144,11 @@
          sodipodi:start="0"
          sodipodi:end="1.5707963"
          sodipodi:arc-type="slice"
-         d="m 230,-295 a 5,5 0 0 1 -1.46447,3.53553 A 5,5 0 0 1 225,-290 v -5 z"
+         d="m 230,-295 a 5,5 0 0 1 -5,5 v -5 z"
          transform="scale(1,-1)" />
       <path
          id="path7658"
-         style="fill:#999999;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;opacity:0.6"
+         style="opacity:0.6;fill:#999999;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          d="m 225,290 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
   </g>

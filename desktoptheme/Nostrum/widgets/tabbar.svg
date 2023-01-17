@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="9.5176573"
-     inkscape:cx="57.419592"
-     inkscape:cy="37.614298"
+     inkscape:zoom="13.46"
+     inkscape:cx="58.320951"
+     inkscape:cy="23.625557"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -43,6 +43,35 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-13,-88)">
+    <g
+       id="south-active-tab-topright">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4665"
+         width="7"
+         height="7"
+         x="35"
+         y="88"
+         rx="0.1"
+         ry="0.1" />
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4607"
+         sodipodi:type="arc"
+         sodipodi:cx="35"
+         sodipodi:cy="-95"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path3772"
+         style="fill:#e56949;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 35,89.999997 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+    </g>
     <rect
        style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        id="south-active-tab-center"
@@ -78,86 +107,6 @@
        height="7"
        x="50"
        y="103" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#south-active-tab-top"
-       id="south-active-tab-bottom"
-       transform="matrix(1,0,0,-1,0,205)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#south-active-tab-top"
-       id="south-active-tab-right"
-       transform="rotate(90,27.5,102.5)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#south-active-tab-top"
-       id="south-active-tab-left"
-       transform="rotate(-90,27.5,102.5)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#south-active-tab-topright"
-       id="south-active-tab-topleft"
-       transform="matrix(-1,0,0,1,55,0)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#south-active-tab-topright"
-       id="south-active-tab-bottomright"
-       transform="matrix(1,0,0,-1,0,205)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#south-active-tab-topright"
-       id="south-active-tab-bottomleft"
-       transform="rotate(180,27.5,102.5)" />
-    <g
-       id="south-active-tab-top">
-      <rect
-         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect4513"
-         width="15"
-         height="7"
-         x="20"
-         y="88"
-         rx="0.21428572"
-         ry="0.1" />
-      <rect
-         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect4507"
-         width="15"
-         height="5"
-         x="20"
-         y="90" />
-    </g>
-    <g
-       id="south-active-tab-topright">
-      <rect
-         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect4665"
-         width="7"
-         height="7"
-         x="35"
-         y="88"
-         rx="0.1"
-         ry="0.1" />
-      <path
-         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="path4607"
-         sodipodi:type="arc"
-         sodipodi:cx="35"
-         sodipodi:cy="-95"
-         sodipodi:rx="5"
-         sodipodi:ry="5"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         sodipodi:arc-type="slice"
-         d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
-         transform="scale(1,-1)" />
-    </g>
     <rect
        y="101"
        x="61"
@@ -194,11 +143,10 @@
        x="85"
        y="95" />
     <g
-       id="north-active-tab-top"
-       transform="translate(65)">
+       id="south-active-tab-top">
       <rect
          style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect7459"
+         id="rect4513"
          width="15"
          height="7"
          x="20"
@@ -206,19 +154,44 @@
          rx="0.21428572"
          ry="0.1" />
       <rect
-         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect7461"
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4507"
          width="15"
          height="5"
          x="20"
          y="90" />
+      <rect
+         style="fill:#e56949;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1794"
+         width="15"
+         height="0.99999702"
+         x="20"
+         y="90" />
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-top"
+       id="south-active-tab-bottom"
+       transform="matrix(1,0,0,-1,0,205)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-top"
+       id="south-active-tab-right"
+       transform="rotate(90,27.500002,102.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#south-active-tab-top"
+       id="south-active-tab-left"
+       transform="rotate(-90,27.499999,102.5)" />
     <g
-       id="north-active-tab-topright"
-       transform="translate(65)">
+       id="south-active-tab-bottomleft"
+       transform="rotate(180,27.5,102.5)">
       <rect
          style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect7465"
+         id="rect876"
          width="7"
          height="7"
          x="35"
@@ -226,8 +199,8 @@
          rx="0.1"
          ry="0.1" />
       <path
-         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="path7467"
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path878"
          sodipodi:type="arc"
          sodipodi:cx="35"
          sodipodi:cy="-95"
@@ -238,6 +211,97 @@
          sodipodi:arc-type="slice"
          d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
          transform="scale(1,-1)" />
+      <path
+         id="path880"
+         style="fill:#e56949;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 35,89.999997 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+    </g>
+    <g
+       id="south-active-tab-topleft"
+       transform="matrix(-1,0,0,1,55,0)">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect926"
+         width="7"
+         height="7"
+         x="35"
+         y="88"
+         rx="0.1"
+         ry="0.1" />
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path928"
+         sodipodi:type="arc"
+         sodipodi:cx="35"
+         sodipodi:cy="-95"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path930"
+         style="fill:#e56949;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 35,89.999997 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+    </g>
+    <g
+       id="south-active-tab-bottomright"
+       transform="matrix(1,0,0,-1,0,205)">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect934"
+         width="7"
+         height="7"
+         x="35"
+         y="88"
+         rx="0.1"
+         ry="0.1" />
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path936"
+         sodipodi:type="arc"
+         sodipodi:cx="35"
+         sodipodi:cy="-95"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path938"
+         style="fill:#e56949;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 35,89.999997 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+    </g>
+    <g
+       id="north-active-tab-top"
+       transform="translate(65)">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1010"
+         width="15"
+         height="7"
+         x="20"
+         y="88"
+         rx="0.21428572"
+         ry="0.1" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1012"
+         width="15"
+         height="5"
+         x="20"
+         y="90" />
+      <rect
+         style="fill:#e56949;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1014"
+         width="15"
+         height="0.99999702"
+         x="20"
+         y="90" />
     </g>
     <use
        x="0"
@@ -250,19 +314,49 @@
        y="0"
        xlink:href="#north-active-tab-top"
        id="north-active-tab-right"
-       transform="rotate(90,92.5,102.5)" />
+       transform="rotate(90,92.500001,102.5)" />
     <use
        x="0"
        y="0"
        xlink:href="#north-active-tab-top"
        id="north-active-tab-left"
-       transform="rotate(-90,92.5,102.5)" />
+       transform="rotate(-90,92.499999,102.5)" />
+    <g
+       id="north-active-tab-topright"
+       transform="translate(65)">
+      <rect
+         style="opacity:0.2;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1148"
+         width="7"
+         height="7"
+         x="35"
+         y="88"
+         rx="0.1"
+         ry="0.1" />
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path1150"
+         sodipodi:type="arc"
+         sodipodi:cx="35"
+         sodipodi:cy="-95"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 40,-95 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path1152"
+         style="fill:#e56949;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 35,89.999997 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+    </g>
     <use
        x="0"
        y="0"
        xlink:href="#north-active-tab-topright"
        id="north-active-tab-topleft"
-       transform="matrix(-1,0,0,1,185,0)" />
+       transform="matrix(-1,0,0,1,185,-3e-6)" />
     <use
        x="0"
        y="0"
