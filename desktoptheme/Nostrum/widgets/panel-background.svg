@@ -3,8 +3,8 @@
 
 <svg
    width="129"
-   height="78"
-   viewBox="0 0 129 78.000003"
+   height="97"
+   viewBox="0 0 129 97.000005"
    version="1.1"
    id="svg17788"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -26,18 +26,30 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="26.920001"
-     inkscape:cx="20.319464"
-     inkscape:cy="44.390786"
+     inkscape:zoom="6.7300003"
+     inkscape:cx="26.448736"
+     inkscape:cy="60.772657"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid1373"
        originx="-93"
-       originy="-84.000003" />
+       originy="-65.00001" />
   </sodipodi:namedview>
   <defs
      id="defs17785">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21240">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop21236" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="1"
+         id="stop21238" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3571">
@@ -142,14 +154,24 @@
        r="8.5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-2,0,0,-2,570,435)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21240"
+       id="linearGradient21242"
+       x1="120"
+       y1="220"
+       x2="120"
+       y2="205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-5,-140)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-93,-84)">
+     transform="translate(-93,-65)">
     <rect
-       style="opacity:0.88;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:0.88;fill:#262626;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="center"
        width="15"
        height="15"
@@ -546,7 +568,7 @@
     <g
        id="top">
       <rect
-         style="opacity:0.88;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.88;fill:#262626;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2325"
          width="15"
          height="7"
@@ -581,7 +603,7 @@
     <g
        id="topright">
       <path
-         style="opacity:0.88;fill:#212121;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         style="opacity:0.88;fill:#262626;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
          id="path3056"
          sodipodi:type="arc"
          sodipodi:cx="115"
@@ -616,5 +638,19 @@
        xlink:href="#topright"
        id="bottomleft"
        transform="rotate(180,107.5,137.5)" />
+    <rect
+       style="opacity:0.05;fill:url(#linearGradient21242);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       id="overlay"
+       width="15"
+       height="15"
+       x="100"
+       y="65" />
+    <rect
+       style="opacity:0.88;fill:#008080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       id="hint-overlay-stretch"
+       width="4"
+       height="4"
+       x="126"
+       y="76" />
   </g>
 </svg>

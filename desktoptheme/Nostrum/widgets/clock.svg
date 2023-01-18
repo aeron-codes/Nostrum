@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="11.313708"
-     inkscape:cx="145.57561"
-     inkscape:cy="99.878834"
+     inkscape:zoom="15.999999"
+     inkscape:cx="165.75001"
+     inkscape:cy="53.187502"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -59,11 +59,11 @@
          cy="459"
          r="47" />
       <circle
-         style="opacity:0.6;fill:#ffffff;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.94;fill:#ffffff;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="circle2445"
          cx="174"
          cy="421"
-         r="4" />
+         r="2" />
       <use
          x="0"
          y="0"
@@ -83,11 +83,11 @@
          id="use8835"
          transform="translate(-38,38)" />
       <circle
-         style="opacity:0.4;fill:#cccccc;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="circle8891"
          cx="380.18677"
          cy="272.51437"
-         r="4"
+         r="2"
          inkscape:transform-center-y="-32.894823"
          inkscape:transform-center-x="-19.009624"
          transform="rotate(30)" />
@@ -167,14 +167,14 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="rect14555"
-         width="8"
-         height="41"
-         x="170"
-         y="461"
-         ry="4"
-         rx="4" />
+         width="6"
+         height="36.999939"
+         x="171"
+         y="461.00003"
+         ry="3"
+         rx="3" />
     </g>
     <g
        id="HourHand"
@@ -187,21 +187,21 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#e5e5e5;fill-opacity:1;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
          id="rect14644"
-         width="8"
-         height="27"
-         x="170"
-         y="461"
-         ry="4"
-         rx="4" />
+         width="6"
+         height="29.000061"
+         x="171"
+         y="460.99988"
+         ry="3"
+         rx="3" />
     </g>
     <circle
-       style="opacity:0.9;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="HandCenterScrew2"
+       style="opacity:1;fill:#53525f;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="HandCenterScrew"
        cx="243.82767"
        cy="439.34851"
-       r="8" />
+       r="6" />
     <rect
        y="435"
        x="268"
@@ -227,14 +227,14 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:0.12;fill:#000000;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.12;fill:#3a3942;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="rect18511"
-         width="8"
-         height="41"
-         x="170"
-         y="461"
-         ry="4"
-         rx="4" />
+         width="6"
+         height="37.000011"
+         x="171"
+         y="460.99997"
+         ry="3"
+         rx="3" />
     </g>
     <g
        id="HourHandShadow"
@@ -247,14 +247,14 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:0.12;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.12;fill:#3a3942;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="rect18625"
-         width="8"
-         height="27"
-         x="170"
-         y="461"
-         ry="4"
-         rx="4" />
+         width="6"
+         height="29"
+         x="171"
+         y="460.99994"
+         ry="2.8"
+         rx="3" />
     </g>
     <g
        id="SecondHand"
@@ -270,7 +270,7 @@
          style="opacity:1;fill:#f97e5d;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="rect21863"
          width="4.0000062"
-         height="41"
+         height="36.999969"
          x="172"
          y="461"
          ry="2"
@@ -287,10 +287,10 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:0.12;fill:#000000;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.12;fill:#3a3942;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="rect22883"
          width="4.0000062"
-         height="41"
+         height="36.999969"
          x="172"
          y="461"
          ry="2"

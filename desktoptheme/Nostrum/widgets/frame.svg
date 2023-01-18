@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="19.028871"
-     inkscape:cx="16.606345"
-     inkscape:cy="7.8827589"
+     inkscape:zoom="38.057742"
+     inkscape:cx="25.566414"
+     inkscape:cy="5.360276"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -44,7 +44,7 @@
      id="layer1"
      transform="translate(-190,-290)">
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
        id="plain-center"
        width="15"
        height="15"
@@ -117,14 +117,14 @@
     <g
        id="plain-top">
       <rect
-         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
          id="rect7656"
          width="15"
          height="5"
          x="210"
          y="290" />
       <rect
-         style="opacity:0.6;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
+         style="opacity:0.35;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
          id="rect7650"
          width="15"
          height="1"
@@ -134,7 +134,7 @@
     <g
        id="plain-topright">
       <path
-         style="fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#1a1a1a;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="path7736"
          sodipodi:type="arc"
          sodipodi:cx="225"
@@ -148,7 +148,7 @@
          transform="scale(1,-1)" />
       <path
          id="path7658"
-         style="opacity:0.6;fill:#999999;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.35;fill:#999999;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          d="m 225,290 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
   </g>

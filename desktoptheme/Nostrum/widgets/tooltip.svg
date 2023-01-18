@@ -44,7 +44,7 @@
      id="layer1"
      transform="translate(-523.00001,-633)">
     <rect
-       style="opacity:0.82;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:0.82;fill:#272727;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="center"
        width="15"
        height="15"
@@ -54,14 +54,14 @@
        id="top"
        transform="translate(430.00003,510)">
       <rect
-         style="opacity:0.82;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.82;fill:#272727;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2325"
          width="15"
          height="7"
          x="100"
          y="123" />
       <rect
-         style="opacity:0.5;fill:#393939;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.6;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2319"
          width="15"
          height="1"
@@ -90,7 +90,7 @@
        id="topright"
        transform="translate(430.00003,510)">
       <path
-         style="opacity:0.82;fill:#212121;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         style="opacity:0.82;fill:#272727;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
          id="path3056"
          sodipodi:type="arc"
          sodipodi:cx="115"
@@ -104,7 +104,7 @@
          transform="scale(1,-1)" />
       <path
          id="path2909"
-         style="opacity:0.5;fill:#393939;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         style="opacity:0.6;fill:#2e2e2e;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
          d="m 115,123 v 1 a 6,6 0 0 1 6,6 h 1 a 7,7 0 0 0 -7,-7 z" />
     </g>
     <use
