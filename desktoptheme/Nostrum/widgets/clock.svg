@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="15.999999"
-     inkscape:cx="165.75001"
-     inkscape:cy="53.187502"
+     inkscape:zoom="7.9999995"
+     inkscape:cx="149.12501"
+     inkscape:cy="89.250006"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -59,7 +59,7 @@
          cy="459"
          r="47" />
       <circle
-         style="opacity:0.94;fill:#ffffff;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#ffffff;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="circle2445"
          cx="174"
          cy="421"
@@ -83,7 +83,7 @@
          id="use8835"
          transform="translate(-38,38)" />
       <circle
-         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#919191;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="circle8891"
          cx="380.18677"
          cy="272.51437"
@@ -167,12 +167,12 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="rect14555"
          width="6"
-         height="36.999939"
+         height="38.999874"
          x="171"
-         y="461.00003"
+         y="461.00009"
          ry="3"
          rx="3" />
     </g>
@@ -187,7 +187,7 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#e5e5e5;fill-opacity:1;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#cdcdcd;fill-opacity:1;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
          id="rect14644"
          width="6"
          height="29.000061"
@@ -197,7 +197,7 @@
          rx="3" />
     </g>
     <circle
-       style="opacity:1;fill:#53525f;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#e26a49;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="HandCenterScrew"
        cx="243.82767"
        cy="439.34851"
@@ -227,12 +227,12 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:0.12;fill:#3a3942;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.2;fill:#3a3942;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="rect18511"
          width="6"
-         height="37.000011"
+         height="39.000095"
          x="171"
-         y="460.99997"
+         y="460.99991"
          ry="3"
          rx="3" />
     </g>
@@ -247,7 +247,7 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:0.12;fill:#3a3942;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.2;fill:#3a3942;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="rect18625"
          width="6"
          height="29"
@@ -267,10 +267,10 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#f97e5d;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#e26a49;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="rect21863"
          width="4.0000062"
-         height="36.999969"
+         height="38.999969"
          x="172"
          y="461"
          ry="2"
@@ -287,10 +287,10 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:0.12;fill:#3a3942;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.2;fill:#3a3942;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="rect22883"
          width="4.0000062"
-         height="36.999969"
+         height="38.999969"
          x="172"
          y="461"
          ry="2"
