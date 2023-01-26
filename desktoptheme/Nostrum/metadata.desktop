@@ -11,12 +11,6 @@ X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
 
-[Wallpaper]
-defaultWallpaperTheme=modernity
-defaultFileSuffix=.svg
-defaultWidth=1920
-defaultHeight=1080
-
 [ContrastEffect]
 enabled=true
 contrast=0.8
