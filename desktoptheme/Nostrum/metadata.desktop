@@ -1,12 +1,12 @@
 [Desktop Entry]
 Comment=Future Retro
 Name=Nostrum
-X-KDE-PluginInfo-Author=phob1an
+X-KDE-PluginInfo-Author=Phobian347
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Email=phobian@tutanota.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL3
-X-KDE-PluginInfo-Name=Modernity
+X-KDE-PluginInfo-Name=Nostrum
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
@@ -18,4 +18,4 @@ intensity=1.5
 saturation=1.0
 
 [BlurBehindEffect]
-enabled=true
+enabled=false
