@@ -7,6 +7,12 @@ ColorScheme=Nostrum
 [kdeglobals][KDE]
 widgetStyle=kvantum
 
+[Wallpaper]
+Image=Nostrum
+
+[kdeglobals][Icons]
+Theme=Papirus
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 

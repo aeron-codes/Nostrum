@@ -7,7 +7,7 @@
    viewBox="0 0 71.999939 48.000021"
    version="1.1"
    id="svg17788"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="restore.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,15 +26,19 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="10.459283"
-     inkscape:cx="50.863905"
-     inkscape:cy="20.747119"
+     inkscape:cx="50.816103"
+     inkscape:cy="20.74712"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid862"
        originx="948.99994"
-       originy="539.00004" />
+       originy="539.00004"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs17785" />
@@ -53,7 +57,7 @@
          x="-948.99994"
          y="-539" />
       <circle
-         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="path970"
          cx="-936.99994"
          cy="-527"
@@ -209,7 +213,7 @@
          x="-948.99994"
          y="-539" />
       <circle
-         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="circle1903"
          cx="-936.99994"
          cy="-527"
@@ -443,7 +447,7 @@
          x="-948.99994"
          y="-539" />
       <circle
-         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
+         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square"
          id="circle2577"
          cx="-936.99994"
          cy="-527"

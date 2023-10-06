@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#818181"
      inkscape:document-units="px"
-     inkscape:zoom="0.098213844"
-     inkscape:cx="1237.0965"
-     inkscape:cy="2489.4657"
+     inkscape:zoom="0.16309399"
+     inkscape:cx="1529.7927"
+     inkscape:cy="1174.1696"
      inkscape:current-layer="layer1"
      showgrid="true">
     <inkscape:grid
@@ -54,87 +54,90 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g1">
-      <rect
-         style="fill:#060625;stroke-width:2.01629;stroke-linecap:round;fill-opacity:1"
-         id="rect1"
-         width="2560"
-         height="1440"
-         x="0"
-         y="-4.2632564e-14" />
-      <ellipse
-         style="fill:#120932;fill-opacity:1;stroke-width:3.59123;stroke-linecap:round"
-         id="path1"
-         cx="1303.3198"
-         cy="844.72559"
-         rx="1204.9967"
-         ry="1177.1508" />
-      <ellipse
-         style="fill:#301447;fill-opacity:1;stroke-width:2.96055;stroke-linecap:round"
-         id="ellipse1"
-         cx="1292.8755"
-         cy="815.77905"
-         rx="1019.8581"
-         ry="945.22443" />
-      <ellipse
-         style="opacity:0.8;fill:#6e3059;fill-opacity:1;stroke-width:2.30927;stroke-linecap:round"
-         id="ellipse3"
-         cx="1368.6564"
-         cy="704.35022"
-         rx="808.52551"
-         ry="725.41931" />
-      <ellipse
-         style="opacity:1;fill:#602c5f;fill-opacity:1;stroke-width:2.14156;stroke-linecap:round"
-         id="circle10"
-         cx="1197.5597"
-         cy="727.73175"
-         rx="718.047"
-         ry="702.48456" />
-      <ellipse
-         style="opacity:0.9;fill:#8a2f58;fill-opacity:1;stroke-width:1.99074;stroke-linecap:round"
-         id="ellipse4"
-         cx="1276.3405"
-         cy="771.15631"
-         rx="667.04004"
-         ry="653.42438" />
-      <ellipse
-         style="fill:#902846;fill-opacity:1;stroke-width:1.67635;stroke-linecap:round"
-         id="ellipse5"
-         cx="1285.0997"
-         cy="731.51996"
-         rx="572.35168"
-         ry="539.99445" />
-      <circle
-         style="fill:#a4283e;fill-opacity:1;stroke-width:1.28532;stroke-linecap:round"
-         id="ellipse6"
-         cx="1185.1396"
-         cy="668.50726"
-         r="426.25717" />
-      <circle
-         style="fill:#b1283f;fill-opacity:1;stroke-width:0.927046;stroke-linecap:round"
-         id="ellipse7"
-         cx="1215.3735"
-         cy="719.07526"
-         r="307.43939" />
-      <circle
-         style="fill:#db2739;fill-opacity:1;stroke-width:0.696289;stroke-linecap:round"
-         id="ellipse8"
-         cx="1253.6726"
-         cy="688.07355"
-         r="230.91472" />
-      <circle
-         style="fill:#ec2a2a;fill-opacity:1;stroke-width:0.510297;stroke-linecap:round"
-         id="ellipse9"
-         cx="1235.674"
-         cy="721.02112"
-         r="169.23314" />
-      <circle
-         style="fill:#feaa06;fill-opacity:1;stroke-width:0.318897;stroke-linecap:round"
-         id="ellipse10"
-         cx="1281.0468"
-         cy="715.98138"
-         r="105.75784" />
-    </g>
+    <rect
+       style="fill:#060625;stroke-width:2.01629;stroke-linecap:round;fill-opacity:1"
+       id="rect1"
+       width="2560"
+       height="1440"
+       x="0"
+       y="-4.2632564e-14" />
+    <ellipse
+       style="fill:#120932;fill-opacity:1;stroke-width:3.59123;stroke-linecap:round"
+       id="path1"
+       cx="1303.3198"
+       cy="844.72559"
+       rx="1204.9967"
+       ry="1177.1508" />
+    <ellipse
+       style="fill:#301447;fill-opacity:1;stroke-width:2.96055;stroke-linecap:round"
+       id="ellipse1"
+       cx="1292.8755"
+       cy="815.77905"
+       rx="1019.8581"
+       ry="945.22443" />
+    <ellipse
+       style="opacity:0.8;fill:#6e3059;fill-opacity:1;stroke-width:2.30927;stroke-linecap:round"
+       id="ellipse3"
+       cx="1368.6564"
+       cy="704.35022"
+       rx="808.52551"
+       ry="725.41931" />
+    <ellipse
+       style="opacity:1;fill:#602c5f;fill-opacity:1;stroke-width:2.14156;stroke-linecap:round"
+       id="circle10"
+       cx="1197.5597"
+       cy="727.73175"
+       rx="718.047"
+       ry="702.48456" />
+    <ellipse
+       style="opacity:0.9;fill:#8a2f58;fill-opacity:1;stroke-width:1.99074;stroke-linecap:round"
+       id="ellipse4"
+       cx="1276.3405"
+       cy="771.15631"
+       rx="667.04004"
+       ry="653.42438" />
+    <ellipse
+       style="fill:#902846;fill-opacity:1;stroke-width:1.67635;stroke-linecap:round"
+       id="ellipse5"
+       cx="1285.0997"
+       cy="731.51996"
+       rx="572.35168"
+       ry="539.99445" />
+    <circle
+       style="fill:#a4283e;fill-opacity:1;stroke-width:1.28532;stroke-linecap:round"
+       id="ellipse6"
+       cx="1185.1396"
+       cy="668.50726"
+       r="426.25717" />
+    <circle
+       style="fill:#b1283f;fill-opacity:1;stroke-width:0.927046;stroke-linecap:round"
+       id="ellipse7"
+       cx="1215.3735"
+       cy="719.07526"
+       r="307.43939" />
+    <circle
+       style="fill:#db2739;fill-opacity:1;stroke-width:0.696289;stroke-linecap:round"
+       id="ellipse8"
+       cx="1253.6726"
+       cy="688.07355"
+       r="230.91472" />
+    <circle
+       style="fill:#ec2a2a;fill-opacity:1;stroke-width:0.510297;stroke-linecap:round"
+       id="ellipse9"
+       cx="1235.674"
+       cy="721.02112"
+       r="169.23314" />
+    <circle
+       style="fill:#feaa06;fill-opacity:1;stroke-width:0.318897;stroke-linecap:round"
+       id="ellipse10"
+       cx="1281.0468"
+       cy="715.98138"
+       r="105.75784" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.504829;stroke-linecap:round"
+       id="circle11"
+       cx="3653.7957"
+       cy="1017.3097"
+       r="167.41974" />
   </g>
 </svg>
