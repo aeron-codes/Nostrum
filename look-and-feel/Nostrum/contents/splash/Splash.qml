@@ -26,68 +26,94 @@ Rectangle {
     id: root
     color: "#1e1c2c"
     anchors.fill: parent
-//     source: "images/rect1644.png"
-    //fillMode: Image.PreserveAspectCrop
     property int stage
 
-    onStageChanged: {
-        if (stage == 2) {
-            introAnimation.running = true;
-        } else if (stage == 5) {
-            introAnimation.target = busyIndicator;
-            introAnimation.from = 1;
-            introAnimation.to = 0;
-            introAnimation.running = true;
-        }
-    }
+    // onStageChanged: {
+    //     if (stage == 2) {
+    //         introAnimation.running = true;
+    //     } else if (stage == 5) {
+    //         introAnimation.target = busyIndicator;
+    //         introAnimation.from = 1;
+    //         introAnimation.to = 0;
+    //         introAnimation.running = true;
+    //     }
+    // }
 
-    Item {
-        id: content
-        anchors.fill: parent
-        opacity: 0
-        TextMetrics {
-            id: units
-            text: "M"
-            property int gridUnit: boundingRect.height
-            property int largeSpacing: PlasmaCore.Units.gridUnit
-            property int smallSpacing: Math.max(2, gridUnit/4)
-        }
 
-        //Image {
-            //id: logo
-            //property real size: PlasmaCore.Units.gridUnit * 8
-            //anchors.centerIn: parent
-            //source: "images/desktopback.png"
-        //}
+    // Image {
+    //     id: busyIndicator
+    //     anchors.horizontalCenter: parent.horizontalCenter
+    //     anchors.verticalCenter: parent.verticalCenter
+    //     width: 96
+    //     height: 96
+    //     source: "images/logo.png"
+    //     RotationAnimator on rotation {
+    //         id: rotationAnimator
+    //         from: 0
+    //         to: 360
+    //         duration: 3900
+    //         loops: Animation.Infinite
+    //     }
+    // }
 
-        Image {
-            id: busyIndicator
-            //in the middle of the remaining space
-            //y: parent.height - 390 / 2 - height/2
+    // OpacityAnimator {
+    //     id: introAnimation
+    //     running: false
+    //     target: busyIndicator
+    //     from: 0
+    //     to: 1
+    //     duration: 1000
+    //     easing.type: Easing.InOutQuad
+    // }
+
+
+
+
+    property variant images : [
+        "images/spinner1.png",
+        "images/spinner2.png",
+        "images/spinner3.png",
+        "images/spinner4.png",
+        "images/spinner5.png",
+        "images/spinner6.png",
+        "images/spinner7.png",
+        "images/spinner8.png",
+    ];
+    property int currentImage : 0;
+
+    Repeater {
+        id: repeaterImg;
+        model: images;
+        delegate: Image {
+            id: spinner
+            source: modelData;
+            asynchronous: true;
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
-            width: 96
-            height: 96
-            source: "images/logo.svg"
-//             sourceSize.height: PlasmaCore.Units.gridUnit * 6
-            //sourceSize.width: PlasmaCore.Units.gridUnit * 6
-            RotationAnimator on rotation {
-                id: rotationAnimator
-                from: 0
-                to: 360
-                duration: 3900
-                loops: Animation.Infinite
+            visible: (model.index === currentImage);
+
+            OpacityAnimator {
+                target: spinner;
+                from: 0;
+                to: 1;
+                duration: 100;
+                running: true
             }
         }
     }
 
-    OpacityAnimator {
-        id: introAnimation
-        running: false
-        target: content
-        from: 0
-        to: 1
-        duration: 1000
-        easing.type: Easing.InOutQuad
+    Timer {
+        id: timerAnimImg;
+        interval: 125; // here is the delay between 2 images in msecs
+        running: true; // stopped by default, use start() or running=true to launch
+        repeat: true;
+        onTriggered: {
+            if (currentImage < images.length -1) {
+                currentImage++; // show next image
+            }
+            else {
+                currentImage = 0; // go back to the first image at the end
+            }
+        }
     }
 }
