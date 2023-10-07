@@ -7,7 +7,7 @@
    viewBox="0 0 197 128.00001"
    version="1.1"
    id="svg17788"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="clock.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,16 +26,20 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="7.9999995"
-     inkscape:cx="149.12501"
-     inkscape:cy="89.250006"
+     inkscape:zoom="3.7700254"
+     inkscape:cx="149.33586"
+     inkscape:cy="69.230302"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid1539"
        originx="-110"
-       originy="-395.00003" />
+       originy="-395.00003"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs17785" />
@@ -47,13 +51,7 @@
     <g
        id="ClockFace">
       <circle
-         style="fill:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
-         id="circle1671"
-         cx="174"
-         cy="459"
-         r="64" />
-      <circle
-         style="opacity:0.2;fill:#f4f0ff;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.3;fill:#6a647f;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
          id="circle1649"
          cx="174"
          cy="459"
@@ -147,14 +145,6 @@
          inkscape:transform-center-y="-32.910226"
          id="use8905"
          transform="rotate(30,173.98459,458.99258)" />
-      <path
-         id="circle14348"
-         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
-         d="m 216.47364,439.09364 a 47,47 0 0 1 4.46289,19.98633 47,47 0 0 1 -47,47 47,47 0 0 1 -41.95117,-26.00586 47,47 0 0 0 42.95117,28.00586 47,47 0 0 0 47,-47 47,47 0 0 0 -5.46289,-21.98633 z" />
-      <path
-         id="path14408"
-         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
-         d="M 132.26289,481.18633 A 47,47 0 0 1 127.8,461.2 a 47,47 0 0 1 47,-47 47,47 0 0 1 41.95117,26.00586 A 47,47 0 0 0 173.8,412.2 a 47,47 0 0 0 -47,47 47,47 0 0 0 5.46289,21.98633 z" />
     </g>
     <g
        id="MinuteHand"
@@ -167,7 +157,7 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#bfbfbf;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#919191;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="rect14555"
          width="6"
          height="38.999874"
@@ -187,7 +177,7 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#cdcdcd;fill-opacity:1;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#f1f1f1;fill-opacity:1;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
          id="rect14644"
          width="6"
          height="29.000061"
@@ -201,61 +191,7 @@
        id="HandCenterScrew"
        cx="243.82767"
        cy="439.34851"
-       r="6" />
-    <rect
-       y="435"
-       x="268"
-       height="7"
-       width="7"
-       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:2.12132"
-       id="hint-hands-shadow-offset-to-south" />
-    <rect
-       id="hint-hands-shadows-offset-to-east"
-       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:2.12132"
-       width="7"
-       height="7.0000005"
-       x="285"
-       y="435" />
-    <g
-       id="MinuteHandShadow"
-       transform="translate(67,-1.1071158e-5)">
-      <rect
-         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect18509"
-         width="12"
-         height="45"
-         x="168"
-         y="459" />
-      <rect
-         style="opacity:0.2;fill:#3a3942;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
-         id="rect18511"
-         width="6"
-         height="39.000095"
-         x="171"
-         y="460.99991"
-         ry="3"
-         rx="3" />
-    </g>
-    <g
-       id="HourHandShadow"
-       transform="translate(103)">
-      <rect
-         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect18623"
-         width="12"
-         height="45"
-         x="168"
-         y="459" />
-      <rect
-         style="opacity:0.2;fill:#3a3942;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect18625"
-         width="6"
-         height="29"
-         x="171"
-         y="460.99994"
-         ry="2.8"
-         rx="3" />
-    </g>
+       r="5" />
     <g
        id="SecondHand"
        transform="translate(115)">
@@ -267,34 +203,14 @@
          x="168"
          y="459" />
       <rect
-         style="opacity:1;fill:#e26a49;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#e26a49;fill-opacity:1;stroke-width:0.707102;stroke-linecap:round;stroke-linejoin:round"
          id="rect21863"
-         width="4.0000062"
-         height="38.999969"
-         x="172"
-         y="461"
-         ry="2"
-         rx="2.0000031" />
-    </g>
-    <g
-       id="SecondHandShadow"
-       transform="translate(127)">
-      <rect
-         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect22881"
-         width="12"
-         height="45"
-         x="168"
-         y="459" />
-      <rect
-         style="opacity:0.2;fill:#3a3942;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
-         id="rect22883"
-         width="4.0000062"
-         height="38.999969"
-         x="172"
-         y="461"
-         ry="2"
-         rx="2.0000031" />
+         width="2"
+         height="39.000042"
+         x="173"
+         y="460.99997"
+         ry="1"
+         rx="1" />
     </g>
   </g>
 </svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="59.233337"
+   height="50.000004"
+   viewBox="0 0 59.233338 50.000004"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="radiobutton.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d1d1d1"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="23.489104"
+     inkscape:cx="37.464179"
+     inkscape:cy="33.590043"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-105.76666"
+       originy="-145"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff9174;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#eb5229;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="142"
+       y1="170"
+       x2="151"
+       y2="183"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       x1="142"
+       y1="170"
+       x2="151"
+       y2="183"
+       gradientTransform="matrix(0.52941141,0,0,0.52941141,68.941229,83.058887)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.76666,-145)">
+    <circle
+       id="hint-size"
+       cx="114.26666"
+       cy="153.5"
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:1.0625"
+       r="8.5" />
+    <circle
+       id="normal"
+       cx="117"
+       cy="175"
+       style="fill:none;fill-rule:evenodd;stroke:#888498;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       r="8" />
+    <circle
+       id="hover"
+       cx="95"
+       cy="197"
+       style="fill:none;fill-rule:evenodd;stroke:#f7f7f7;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1;opacity:0.6"
+       r="8" />
+    <g
+       id="checked">
+      <circle
+         id="circle3"
+         cx="146.5"
+         cy="176.5"
+         style="fill:#fe8363;fill-rule:evenodd;stroke:url(#linearGradient2);stroke-width:1;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         r="8" />
+      <circle
+         id="circle2"
+         cx="146.5"
+         cy="176.5"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3);stroke-width:0.529411;stroke-dasharray:none;stroke-opacity:1"
+         r="4.2352915" />
+    </g>
+  </g>
+</svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 40 25.000001"
    version="1.1"
    id="svg17788"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="frame.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,15 +26,19 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="38.057742"
-     inkscape:cx="25.566414"
-     inkscape:cy="5.360276"
+     inkscape:zoom="23.969781"
+     inkscape:cx="33.709111"
+     inkscape:cy="3.7964469"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid2960"
        originx="-190"
-       originy="-290.00001" />
+       originy="-290.00001"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs17785" />
@@ -44,7 +48,7 @@
      id="layer1"
      transform="translate(-190,-290)">
     <rect
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+       style="fill:#221c36;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
        id="plain-center"
        width="15"
        height="15"
@@ -117,14 +121,14 @@
     <g
        id="plain-top">
       <rect
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+         style="fill:#221c36;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
          id="rect7656"
          width="15"
          height="5"
          x="210"
          y="290" />
       <rect
-         style="opacity:0.35;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
+         style="opacity:0.35;fill:#6a647f;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
          id="rect7650"
          width="15"
          height="1"
@@ -134,7 +138,7 @@
     <g
        id="plain-topright">
       <path
-         style="fill:#1a1a1a;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#221c36;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="path7736"
          sodipodi:type="arc"
          sodipodi:cx="225"
@@ -148,7 +152,7 @@
          transform="scale(1,-1)" />
       <path
          id="path7658"
-         style="opacity:0.35;fill:#999999;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.35;fill:#6a647f;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          d="m 225,290 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
   </g>
