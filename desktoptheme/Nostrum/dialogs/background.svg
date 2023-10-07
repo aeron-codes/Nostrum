@@ -7,7 +7,7 @@
    viewBox="0 0 129 78.000003"
    version="1.1"
    id="svg17788"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,15 +26,19 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="13.459778"
-     inkscape:cx="92.423518"
-     inkscape:cy="31.204082"
+     inkscape:zoom="9.8072704"
+     inkscape:cx="23.044129"
+     inkscape:cy="48.841317"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid1373"
        originx="-93"
-       originy="-84.000003" />
+       originy="-84.000003"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs17785">

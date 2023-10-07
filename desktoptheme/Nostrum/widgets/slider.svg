@@ -7,7 +7,7 @@
    viewBox="0 0 72 50.000002"
    version="1.1"
    id="svg17788"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="slider.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,15 +26,19 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="9.5144355"
-     inkscape:cx="31.951449"
-     inkscape:cy="46.035311"
+     inkscape:zoom="14.305562"
+     inkscape:cx="24.745621"
+     inkscape:cy="41.382507"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid14689"
        originx="-51.999999"
-       originy="-5.0000002" />
+       originy="-5.0000002"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs17785">
@@ -88,7 +92,7 @@
      id="layer1"
      transform="translate(-51.999999,-5)">
     <rect
-       style="fill:#5e5d6a;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#55545f;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
        id="groove-center"
        width="3"
        height="3"
@@ -123,7 +127,7 @@
        transform="matrix(1.6666667,0,0,1.6666667,-423.00001,-848.50002)"
        style="stroke-width:0.6">
       <circle
-         style="opacity:0.45;fill:#fe7551;fill-opacity:1;stroke-width:0.3;stroke-linecap:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke-width:0.3;stroke-linecap:round"
          id="circle18283"
          cx="291"
          cy="536.09998"
@@ -152,7 +156,7 @@
          x="55"
          y="22" />
       <rect
-         style="fill:#5e5d6a;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#55545f;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="rect18388"
          width="3"
          height="2"
@@ -182,7 +186,7 @@
          x="68"
          y="23" />
       <path
-         style="fill:#5e5d6a;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#55545f;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="path18442"
          sodipodi:type="arc"
          sodipodi:cx="68"
@@ -196,7 +200,7 @@
          transform="scale(1,-1)" />
     </g>
     <rect
-       style="opacity:0.45;fill:#fe7551;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
        id="groove-highlight-center"
        width="3"
        height="3"
@@ -213,7 +217,7 @@
          x="55"
          y="22" />
       <rect
-         style="opacity:0.45;fill:#fe7551;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="rect18584"
          width="3"
          height="2"
@@ -231,7 +235,7 @@
          x="68"
          y="23" />
       <path
-         style="opacity:0.45;fill:#fe7551;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="path18590"
          sodipodi:type="arc"
          sodipodi:cx="68"
@@ -308,7 +312,7 @@
        transform="matrix(1.6666667,0,0,1.6666667,-400.00001,-848.50002)"
        style="stroke-width:0.6">
       <circle
-         style="opacity:0.47;fill:#fe7551;fill-opacity:1;stroke-width:0.3;stroke-linecap:round"
+         style="opacity:0.4;fill:#fe7551;fill-opacity:1;stroke-width:0.3;stroke-linecap:round"
          id="circle30302"
          cx="291"
          cy="536.09998"
