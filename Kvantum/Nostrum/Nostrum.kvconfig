@@ -192,6 +192,10 @@ inherits=PanelButtonCommand
 inherits=PanelButtonCommand
 indicator.element=tab
 indicator.size=10
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 
 [TabFrame]
 frame.top=5
