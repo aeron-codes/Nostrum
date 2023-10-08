@@ -9,10 +9,10 @@ blurring=false
 bold_active_tab=true
 button_contents_shift=true
 button_icon_size=16
-center_toolbar_handle=false
+center_toolbar_handle=true
 check_size=16
 click_behavior=1
-combo_as_lineedit=false
+combo_as_lineedit=true
 combo_focus_rect=false
 combo_menu=true
 composite=true
@@ -66,7 +66,7 @@ submenu_overlap=1
 tab_button_extra_margin=0
 toolbar_icon_size=22
 toolbar_interior_spacing=0
-toolbar_item_spacing=0
+toolbar_item_spacing=5
 toolbar_separator_thickness=5
 toolbutton_style=0
 tooltip_delay=-1
@@ -148,11 +148,9 @@ interior=true
 frame=true
 frame.element=bttn
 indicator.size=8
-text.focus.color=white
-text.press.color=#e4e4e4
 text.toggle.color=white
-text.normal.inactive.color=#cacaca
-indicator.element=marrow
+text.press.color=#f8f8f8
+indicator.element=arrow
 indicator.size=10
 
 [PanelButtonTool]
@@ -175,14 +173,18 @@ frame.right=5
 
 [LineEdit]
 inherits=GenericFrame
-
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 
 [IndicatorSpinBox]
 indicator.element=spind
 indicator.size=10
 
 [DropDownButton]
-inherits=PanelButtonCommand
+indicator.element=cind
+indicator.size=16
 
 [ToolboxTab]
 inherits=PanelButtonCommand
@@ -202,10 +204,10 @@ frame.top=5
 frame.bottom=5
 frame.left=5
 frame.right=5
-frame.element=common
-interior.element=common
-frame=false
-interior=false
+frame.element=gbx
+interior.element=gbx
+frame=true
+interior=true
 
 [TreeExpander]
 indicator.size=10
@@ -215,7 +217,7 @@ indicator.element=tree
 frame.element=mnu
 interior.element=mnu
 frame=true
-indicator.element=marrow
+indicator.element=arrow
 indicator.size=10
 
 [GroupBox]
@@ -252,7 +254,7 @@ frame.left=5
 frame.right=5
 frame.top=5
 frame.bottom=5
-indicator.size=5
+indicator.size=15
 frame.expansion=0
 interior.element=tbf
 interior=true
@@ -284,7 +286,7 @@ frame.right=3
 
 [Progressbar]
 text.bold=true
-text.normal.color=#eaeaea
+text.normal.color=white
 interior.element=pbr
 frame.element=pbr
 frame.top=5
@@ -336,10 +338,12 @@ frame.top=5
 frame.bottom=5
 frame.left=5
 frame.right=5
-indicator.element=marrow
+indicator.element=arrow
 indicator.size=10
 text.margin.top=1
 text.margin.bottom=1
+text.focus.color=white
+text.normal.color=#f8f8f8
 
 [MenuBarItem]
 frame.top=3
@@ -353,6 +357,7 @@ frame.element=mbitm
 text.margin.top=1
 text.margin.bottom=1
 inactive.text.color=blue
+text.focused.color=green
 
 [MenuBar]
 interior=false
@@ -382,6 +387,10 @@ text.normal.color=white
 inherits=GenericFrame
 indicator.size=16
 indicator.element=cind
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 
 [Splitter]
 indicator.size=20
