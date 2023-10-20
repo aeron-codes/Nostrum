@@ -17,8 +17,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs4624" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="294.20693"
-     inkscape:cy="-15.026019"
+     inkscape:zoom="31.678384"
+     inkscape:cx="9.2807764"
+     inkscape:cy="7.8918167"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -62,6 +60,8 @@
        units="px"
        visible="true" />
   </sodipodi:namedview>
+  <defs
+     id="defs4624" />
   <metadata
      id="metadata4627">
     <rdf:RDF>
@@ -79,51 +79,53 @@
      id="layer1"
      transform="translate(0,-1094.5198)">
     <rect
-       style="opacity:0.2;fill:#1e1c2c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:0.05;fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect10"
-       width="276"
-       height="28.000013"
-       x="1.9999998"
-       y="1096.5198" />
+       width="278"
+       height="30.000013"
+       x="1.0000001"
+       y="1095.5198"
+       rx="2"
+       ry="2" />
     <rect
-       style="fill:#6a6480;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="fill:#837b9e;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect4"
-       width="270"
-       height="2.0000143"
-       x="5"
+       width="268"
+       height="1.0000142"
+       x="6"
        y="1094.5198" />
     <use
        x="0"
        y="0"
        xlink:href="#rect4"
        id="use5"
-       transform="translate(0,30.000013)" />
+       transform="translate(0,30.999999)" />
     <rect
-       style="fill:#6a6480;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="fill:#837b9e;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect7"
-       width="2"
-       height="22.000013"
+       width="1"
+       height="20.000013"
        x="0"
-       y="1099.5194" />
+       y="1100.5198" />
     <use
        x="0"
        y="0"
        xlink:href="#rect7"
        id="use7"
-       transform="translate(278,3.6628576e-4)" />
+       transform="translate(279,1.4082515e-5)" />
     <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#6a6480;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#837b9e;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path7"
        sodipodi:type="arc"
-       sodipodi:cx="4"
-       sodipodi:cy="1098.5198"
-       sodipodi:rx="3"
-       sodipodi:ry="3"
+       sodipodi:cx="5.5"
+       sodipodi:cy="1100.0198"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
        sodipodi:start="3.1415927"
        sodipodi:end="4.712389"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="M 1,1098.5198 A 3,3 0 0 1 1.8786797,1096.3985 3,3 0 0 1 4,1095.5198" />
+       d="m 0.5,1100.0198 a 5,5 0 0 1 5,-5" />
     <use
        x="0"
        y="0"
@@ -135,7 +137,7 @@
        y="0"
        xlink:href="#path7"
        id="use9"
-       transform="matrix(-1,0,0,1,280,0)" />
+       transform="matrix(-1,0,0,1,280,6.2500002e-8)" />
     <use
        x="0"
        y="0"
