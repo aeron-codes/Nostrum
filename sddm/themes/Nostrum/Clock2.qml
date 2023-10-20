@@ -30,6 +30,7 @@ Column {
     property date dateTime: new Date()
     property color color: "white"
     property alias timeFont: time.font
+    property alias dateFont: date.font
     
     Timer {
         interval: 100; running: true; repeat: true;
@@ -38,9 +39,21 @@ Column {
 
     Text {
         id: time
+        width: 280
+        horizontalAlignment: Text.AlignRight
         color: container.color
-        text : Qt.formatDateTime(container.dateTime, "dddd, d MMMM HH:mm:ss t")
-        font.pointSize: 11
-        font.italic: true
+        text : Qt.formatDateTime(container.dateTime, "HH:mm t")
+        font.pointSize: 24
+        font.weight: Font.Light
+        // font.italic: true
+    }
+
+    Text{
+        id: date
+        width: 280
+        horizontalAlignment: Text.AlignRight
+        color: container.color
+        text : Qt.formatDateTime(container.dateTime, "dddd, d MMMM")
+        font.pointSize: 10
     }
 }

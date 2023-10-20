@@ -20,12 +20,11 @@ Rectangle {
     Connections {
         target : sddm
         function onLoginSucceeded() {
-            errorMessage.color = "green"
             errorMessage.text = textConstants.loginSucceeded
         }
         function onLoginFailed() {
             password.text = ""
-            errorMessage.color = "red"
+            errorMessage.color = "#f8724f"
             errorMessage.text = textConstants.loginFailed
             errorMessage.bold = true
         }
@@ -88,12 +87,12 @@ Rectangle {
                 width : 280
                 height : 32
                 text : userModel.lastUser
-                font.pointSize : 12
-                verticalAlignment: TextInput.AlignBottom
+                font.pointSize : 10
+                // verticalAlignment: TextInput.AlignCenter
                 color : "white"
 
                 background : Image {
-                    source : "input.svg"
+                    source : "images/input.svg"
                 }
 
                 KeyNavigation.tab : password
@@ -116,16 +115,15 @@ Rectangle {
 
             TextField {
                 id : password
-                font.pointSize : 12
+                font.pointSize : 10
                 echoMode : TextInput.Password
                 font.family : loginfont.name
-                font.italic : true
                 color : "white"
                 width : 280
                 height : 32
 
                 background : Image {
-                    source : "input.svg"
+                    source : "images/input.svg"
                 }
 
                 KeyNavigation.backtab : nameinput
@@ -144,7 +142,7 @@ Rectangle {
 
         Image {
             id : loginButton
-            source : "buttonup.svg"
+            source : "images/buttonup.svg"
             anchors.right : inputstack.right
             anchors.top: inputstack.bottom
             anchors.topMargin: 32
@@ -155,17 +153,17 @@ Rectangle {
                 anchors.fill : parent
                 hoverEnabled : true
                 onEntered : {
-                    parent.source = "buttonhover.svg"
+                    parent.source = "images/buttonhover.svg"
                 }
                 onExited : {
-                    parent.source = "buttonup.svg"
+                    parent.source = "images/buttonup.svg"
                 }
                 onPressed : {
-                    parent.source = "buttondown.svg"
+                    parent.source = "images/buttondown.svg"
                     sddm.login(name.text, password.text, sessionIndex)
                 }
                 onReleased : {
-                    parent.source = "buttonup.svg"
+                    parent.source = "images/buttonup.svg"
                 }
             }
 
@@ -184,128 +182,138 @@ Rectangle {
 
     Rectangle {
         id: leftblob
-        color: "green"
+        color: "transparent"
         anchors.top: parent.top
         anchors.left: parent.left
         height: parent.height
         width: parent.width / 3
+
+        Column {
+            id: leftstack
+            anchors.right: parent.right
+            anchors.verticalCenter: parent.verticalCenter
+            spacing: 16
+            Clock2 {
+                id: clock
+                anchors.right: parent.right
+                color: "white"
+                timeFont.family: promptfont.name
+                dateFont.family: loginfont.name
+            }
+            ComboBox {
+                id : session
+                anchors.right : parent.right
+                color : "#3b3749"
+                borderColor : "#353242"
+                hoverColor : "#f8724f"
+                focusColor : "#f8724f"
+                textColor : "#f8f8f8"
+                menuColor : "#3b3749"
+                width : 180
+                height : 30
+                font.pointSize : 10
+                font.family : loginfont.name
+                arrowIcon : "images/comboarrow.svg"
+                model : sessionModel
+                index : sessionModel.lastIndex
+                KeyNavigation.backtab : nameinput
+                KeyNavigation.tab : password
+            }
+        }
     }
 
+        Image {
+            id : shutdownButton
+            source : "images/shutdown.svg"
+            anchors.right : parent.right
+            anchors.bottom : parent.bottom
+            anchors.rightMargin : 12
+            anchors.bottomMargin: 8
 
+            MouseArea {
+                anchors.fill : parent
+                hoverEnabled : true
+                onEntered : {
+                    parent.source = "images/shutdownhover.svg"
+                }
+                onExited : {
+                    parent.source = "images/shutdown.svg"
+                }
+                onPressed : {
+                    parent.source = "images/shutdownpressed.svg"
+                    sddm.powerOff()
+                }
+                onReleased : {
+                    parent.source = "images/shutdown.svg"
+                }
+            }
 
-    // Rectangle {
-    //     anchors.bottom : promptbox.bottom
-    //     anchors.horizontalCenter : promptbox.horizontalCenter
-    //     width : 598
-    //     height : 48
-    //     color: "transparent"
-    //     // source : "header.svg"
-    //     Text {
-    //         height : 30
-    //         id : lblSession
-    //         width : 48
-    //         anchors.left : parent.left
-    //         anchors.verticalCenter : parent.verticalCenter
-    //         anchors.leftMargin : 8
-    //         text : textConstants.session
-    //         font.pointSize : 9
-    //         font.italic : true
-    //         font.family : loginfont.name
-    //         verticalAlignment : Text.AlignVCenter
-    //         color : "#212121"
-    //     }
-    //
-    //     ComboBox {
-    //         id : session
-    //         anchors.left : parent.left
-    //         anchors.verticalCenter : parent.verticalCenter
-    //         anchors.leftMargin : 64
-    //         color : "#e1e1e1"
-    //         borderColor : "#777777"
-    //         hoverColor : "#9ebfbf"
-    //         focusColor : "#9ebfbf"
-    //         textColor : "black"
-    //         menuColor : "#e1e1e1"
-    //         width : 164
-    //         height : 22
-    //         font.pointSize : 9
-    //         font.italic : true
-    //         font.family : loginfont.name
-    //         arrowIcon : "comboarrow.svg"
-    //         model : sessionModel
-    //         index : sessionModel.lastIndex
-    //         KeyNavigation.backtab : name
-    //         KeyNavigation.tab : password
-    //     }
-    //     Image {
-    //         id : shutdownButton
-    //         source : "buttonup.svg"
-    //         anchors.right : parent.right
-    //         anchors.verticalCenter : parent.verticalCenter
-    //         anchors.rightMargin : 8
-    //         height : 24
-    //         MouseArea {
-    //             anchors.fill : parent
-    //             hoverEnabled : true
-    //             onEntered : {
-    //                 parent.source = "buttonhover.svg"
-    //             }
-    //             onExited : {
-    //                 parent.source = "buttonup.svg"
-    //             }
-    //             onPressed : {
-    //                 parent.source = "buttondown.svg"
-    //                 sddm.powerOff()
-    //             }
-    //             onReleased : {
-    //                 parent.source = "buttonup.svg"
-    //             }
-    //         }
-    //         Text {
-    //             text : textConstants.shutdown
-    //             anchors.centerIn : parent
-    //             font.family : loginfont.name
-    //             font.italic : true
-    //             font.pixelSize : 12
-    //             color : "#212121"
-    //         }
-    //         KeyNavigation.backtab : rebootButton
-    //         KeyNavigation.tab : shutdownButton
-    //     }
-    //     Image {
-    //         id : rebootButton
-    //         source : "buttonup.svg"
-    //         anchors.right : parent.right
-    //         anchors.verticalCenter : parent.verticalCenter
-    //         anchors.rightMargin : 100
-    //         height : 24
-    //         MouseArea {
-    //             anchors.fill : parent
-    //             hoverEnabled : true
-    //             onEntered : {
-    //                 parent.source = "buttonhover.svg"
-    //             }
-    //             onExited : {
-    //                 parent.source = "buttonup.svg"
-    //             }
-    //             onPressed : {
-    //                 parent.source = "buttondown.svg"
-    //                 sddm.reboot()
-    //             }
-    //             onReleased : {
-    //                 parent.source = "buttonup.svg"
-    //             }
-    //         }
-    //         Text {
-    //             text : textConstants.reboot
-    //             anchors.centerIn : parent
-    //             font.family : loginfont.name
-    //             font.italic : true
-    //             font.pixelSize : 12
-    //             color : "#212121"
-    //         }
-    //         KeyNavigation.backtab : password
-    //         KeyNavigation.tab : shutdownButton
-    //     }
-    // }
+            KeyNavigation.backtab : rebootButton
+            KeyNavigation.tab : rebootButton
+        }
+
+        Image {
+            id : rebootButton
+            source : "images/reboot.svg"
+            anchors.right : shutdownButton.left
+            anchors.bottom : parent.bottom
+            anchors.rightMargin : 12
+            anchors.bottomMargin: 8
+
+            MouseArea {
+                anchors.fill : parent
+                hoverEnabled : true
+                onEntered : {
+                    parent.source = "images/reboothover.svg"
+                }
+                onExited : {
+                    parent.source = "images/reboot.svg"
+                }
+                onPressed : {
+                    parent.source = "images/rebootpressed.svg"
+                    sddm.reboot()
+                }
+                onReleased : {
+                    parent.source = "images/reboot.svg"
+                }
+            }
+
+            KeyNavigation.backtab : shutdownButton
+            KeyNavigation.tab : shutdownButton
+        }
+
+    Rectangle {
+        id: titleblob
+        color: "transparent"
+        anchors.top: parent.top
+        anchors.horizontalCenter: parent.horizontalCenter
+        height: parent.height /3
+        width: parent.width
+
+        Column {
+            id: headingstack
+            anchors.bottom: parent.bottom
+            anchors.horizontalCenter: parent.horizontalCenter
+            spacing: 7
+
+            Text {
+                id : lblSession
+                anchors.horizontalCenter : parent.horizontalCenter
+                text : "Welcome to Buxtehude"
+                // text : textConstants.welcomeText.arg(sddm.hostName)
+                font.pointSize : 24
+                font.family : loginfont.name
+                color : "#f8f8f8"
+            }
+
+            Text {
+                id: errorMessage
+                anchors.horizontalCenter: parent.horizontalCenter
+                text: textConstants.prompt
+                font.family : loginfont.name
+                font.pointSize: 10
+                color : "#f8f8f8"
+            }
+        }
+    }
 }

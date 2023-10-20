@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="9.2807764"
-     inkscape:cy="7.8918167"
+     inkscape:zoom="11.313709"
+     inkscape:cx="276.8323"
+     inkscape:cy="25.809397"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -79,16 +79,16 @@
      id="layer1"
      transform="translate(0,-1094.5198)">
     <rect
-       style="opacity:0.05;fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:#3b3749;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect10"
        width="278"
-       height="30.000013"
-       x="1.0000001"
+       height="30.000011"
+       x="1"
        y="1095.5198"
-       rx="2"
-       ry="2" />
+       rx="2.5"
+       ry="2.6785724" />
     <rect
-       style="fill:#837b9e;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="opacity:1;fill:#353242;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect4"
        width="268"
        height="1.0000142"
@@ -101,20 +101,14 @@
        id="use5"
        transform="translate(0,30.999999)" />
     <rect
-       style="fill:#837b9e;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="opacity:1;fill:#353242;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect7"
        width="1"
-       height="20.000013"
+       height="20.00005"
        x="0"
        y="1100.5198" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect7"
-       id="use7"
-       transform="translate(279,1.4082515e-5)" />
     <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#837b9e;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#353242;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path7"
        sodipodi:type="arc"
        sodipodi:cx="5.5"
@@ -137,12 +131,18 @@
        y="0"
        xlink:href="#path7"
        id="use9"
-       transform="matrix(-1,0,0,1,280,6.2500002e-8)" />
+       transform="matrix(-1,0,0,1,280,2.4609375e-5)" />
     <use
        x="0"
        y="0"
        xlink:href="#path7"
        id="use10"
        transform="rotate(180,140,1110.5198)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect7"
+       id="use1"
+       transform="translate(279,1.4070015e-5)" />
   </g>
 </svg>
