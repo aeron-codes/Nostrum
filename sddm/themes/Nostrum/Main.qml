@@ -132,7 +132,7 @@ Rectangle {
 
                 Keys.onPressed : {
                     if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
-                        sddm.login(name.text, password.text, sessionIndex)
+                        sddm.login(nameinput.text, password.text, sessionIndex)
                         event.accepted = true
                     }
                 }
@@ -160,7 +160,7 @@ Rectangle {
                 }
                 onPressed : {
                     parent.source = "images/buttondown.svg"
-                    sddm.login(name.text, password.text, sessionIndex)
+                    sddm.login(nameinput.text, password.text, sessionIndex)
                 }
                 onReleased : {
                     parent.source = "images/buttonup.svg"
@@ -299,8 +299,7 @@ Rectangle {
             Text {
                 id : lblSession
                 anchors.horizontalCenter : parent.horizontalCenter
-                text : "Welcome to Buxtehude"
-                // text : textConstants.welcomeText.arg(sddm.hostName)
+                text : textConstants.welcomeText.arg(sddm.hostName)
                 font.pointSize : 24
                 font.family : loginfont.name
                 color : "#f8f8f8"
