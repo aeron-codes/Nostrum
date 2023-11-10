@@ -27,8 +27,8 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="18.729426"
-     inkscape:cx="105.0753"
-     inkscape:cy="8.1155718"
+     inkscape:cx="106.4101"
+     inkscape:cy="6.1934626"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -116,7 +116,7 @@
          x="250"
          y="615" />
       <rect
-         style="opacity:0.9;fill:#6a647f;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
          id="rect3219"
          width="15"
          height="1"
@@ -141,7 +141,7 @@
          transform="scale(1,-1)" />
       <path
          id="path3252"
-         style="opacity:0.9;fill:#6a647f;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <rect
@@ -183,7 +183,7 @@
          x="250"
          y="615" />
       <rect
-         style="opacity:0.9;fill:#898499;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
+         style="opacity:0.9;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
          id="rect4895"
          width="15"
          height="1"
@@ -208,7 +208,7 @@
          transform="scale(1,-1)" />
       <path
          id="path4901"
-         style="opacity:0.9;fill:#898499;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         style="opacity:0.9;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <use
@@ -293,33 +293,12 @@
          x="250"
          y="615" />
       <rect
-         style="opacity:0.2;fill:#898499;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
+         style="opacity:0.3;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none"
          id="rect5140"
          width="15"
-         height="1"
+         height="2.0000305"
          x="250"
          y="615" />
-    </g>
-    <g
-       id="focus-topright"
-       transform="translate(290,-1021)">
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
-         id="path5144"
-         sodipodi:type="arc"
-         sodipodi:cx="265"
-         sodipodi:cy="-620"
-         sodipodi:rx="5"
-         sodipodi:ry="5"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         sodipodi:arc-type="slice"
-         d="m 270,-620 a 5,5 0 0 1 -5,5 v -5 z"
-         transform="scale(1,-1)" />
-      <path
-         id="path5146"
-         style="opacity:0.2;fill:#898499;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
-         d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <use
        x="0"
@@ -344,19 +323,19 @@
        y="0"
        xlink:href="#focus-topright"
        id="focus-topleft"
-       transform="matrix(-1,0,0,1,1095,0)" />
+       transform="matrix(-1,0,0,1,1095,-1.8530369e-7)" />
     <use
        x="0"
        y="0"
        xlink:href="#focus-topright"
        id="focus-bottomright"
-       transform="matrix(1,0,0,-1,0,-787)" />
+       transform="matrix(1,0,0,-1,0,-786.99994)" />
     <use
        x="0"
        y="0"
        xlink:href="#focus-topright"
        id="focus-bottomleft"
-       transform="rotate(180,547.5,-393.5)" />
+       transform="rotate(180,547.5,-393.49997)" />
     <rect
        id="focus-hint-left-margin"
        height="1"
@@ -385,5 +364,18 @@
        width="1"
        x="486"
        y="-390.01001" />
+    <path
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#fe7551;stroke-width:2;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1"
+       id="focus-topright"
+       sodipodi:type="arc"
+       sodipodi:cx="555"
+       sodipodi:cy="-400.99997"
+       sodipodi:rx="4"
+       sodipodi:ry="4"
+       sodipodi:start="4.712389"
+       sodipodi:end="0"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 555,-404.99997 a 4,4 0 0 1 4,4" />
   </g>
 </svg>

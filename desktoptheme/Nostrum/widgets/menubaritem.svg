@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="102"
+   height="41"
+   viewBox="0 0 102 41.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="menubaritem.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d1d1d1"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="4.68945"
+     inkscape:cx="41.902569"
+     inkscape:cy="-2.3456909"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="35"
+       originy="-9.9999986"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient15"
+       x1="40"
+       y1="95"
+       x2="35"
+       y2="90"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2,-111)" />
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#eb5229;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#ff9174;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2,-111)"
+       x1="35"
+       y1="90"
+       x2="40"
+       y2="95" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient65"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2,-111)"
+       x1="35"
+       y1="90"
+       x2="40"
+       y2="95" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient66"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2,-111)"
+       x1="40"
+       y1="95"
+       x2="35"
+       y2="90" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(35,-9.9999984)">
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 19,36.999996 h 2 v 6 h -2 z"
+       id="normal-hint-top-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 19,44.999997 h 2 v 6 h -2 z"
+       id="normal-hint-bottom-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 13,42.999998 h 6 v 2 h -6 z"
+       id="normal-hint-left-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 21,42.999998 h 6 v 2 h -6 z"
+       id="normal-hint-right-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 37,36.999998 h 2 v 6 h -2 z"
+       id="hover-hint-top-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 37,44.999998 h 2 v 6 h -2 z"
+       id="hover-hint-bottom-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 31,42.999998 h 6 v 2 h -6 z"
+       id="hover-hint-left-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <path
+       fill-rule="evenodd"
+       fill="#ff00ff"
+       d="m 39,42.999998 h 6 v 2 h -6 z"
+       id="hover-hint-right-margin"
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996" />
+    <rect
+       style="opacity:0.9;fill:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="normal-center"
+       width="22"
+       height="22"
+       x="-29"
+       y="15.999999" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#normal-top"
+       id="normal-bottom"
+       transform="matrix(1,0,0,-1,0,53.999998)"
+       style="fill:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#normal-topright"
+       id="normal-topleft"
+       transform="matrix(-1,0,0,1,-36,2.2097225e-8)"
+       style="fill:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#normal-topright"
+       id="normal-bottomright"
+       transform="matrix(1,0,0,-1,0,53.999998)"
+       style="fill:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#normal-topright"
+       id="normal-bottomleft"
+       transform="rotate(180,-18,26.999999)"
+       style="fill:none" />
+    <g
+       id="normal-top"
+       transform="translate(-3,2.9999994)"
+       style="fill:none">
+      <rect
+         style="opacity:0.9;fill:none;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect12"
+         width="22"
+         height="6"
+         x="-26"
+         y="6.999999" />
+      <rect
+         style="opacity:0.9;fill:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect13"
+         width="22"
+         height="2"
+         x="-26"
+         y="10.999999" />
+    </g>
+    <g
+       id="normal-topright"
+       transform="translate(-7,2.9999989)"
+       style="fill:none">
+      <rect
+         style="opacity:0.9;fill:none;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect15"
+         width="6"
+         height="6"
+         x="0"
+         y="6.9999995" />
+      <rect
+         style="opacity:0.9;fill:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect16"
+         width="4"
+         height="2"
+         x="0"
+         y="10.999999" />
+    </g>
+    <g
+       id="g18"
+       transform="rotate(90,-18,23.999999)"
+       style="fill:none">
+      <rect
+         style="opacity:0.9;fill:none;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect17"
+         width="22"
+         height="6"
+         x="-26"
+         y="6.999999" />
+      <rect
+         style="opacity:0.9;fill:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect18"
+         width="22"
+         height="4"
+         x="-26"
+         y="8.999999" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g18"
+       id="normal-left"
+       transform="matrix(-1,0,0,1,-36,2.9790277e-7)"
+       style="fill:none" />
+    <path
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996"
+       id="pressed-hint-top-margin"
+       d="m 55,36.999998 h 2 v 6 h -2 z"
+       fill="#ff00ff"
+       fill-rule="evenodd" />
+    <path
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996"
+       id="pressed-hint-bottom-margin"
+       d="m 55,44.999998 h 2 v 6 h -2 z"
+       fill="#ff00ff"
+       fill-rule="evenodd" />
+    <path
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996"
+       id="pressed-hint-left-margin"
+       d="m 49,42.999998 h 6 v 2 h -6 z"
+       fill="#ff00ff"
+       fill-rule="evenodd" />
+    <path
+       style="opacity:0.5;fill:#008080;stroke-width:0.999996"
+       id="pressed-hint-right-margin"
+       d="m 57,42.999998 h 6 v 2 h -6 z"
+       fill="#ff00ff"
+       fill-rule="evenodd" />
+    <rect
+       style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="hover-center"
+       width="15"
+       height="15"
+       x="11.00006"
+       y="15.999994" />
+    <g
+       id="hover-left"
+       transform="rotate(-90,-17.000001,67.999999)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1"
+         width="14.999999"
+         height="6"
+         x="20"
+         y="90" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2"
+         width="15"
+         height="0.99999702"
+         x="20"
+         y="90" />
+    </g>
+    <g
+       id="hover-top"
+       transform="translate(-4,30.999999)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1012"
+         width="15"
+         height="5"
+         x="15"
+         y="-20" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1014"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-20" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-20.999996" />
+    </g>
+    <g
+       id="hover-right"
+       transform="matrix(0,-1,-1,0,122,51)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect5"
+         width="15"
+         height="6"
+         x="20"
+         y="90" />
+      <rect
+         style="fill:#eb5128;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6"
+         width="15"
+         height="0.99999702"
+         x="20"
+         y="90" />
+    </g>
+    <g
+       id="hover-bottom"
+       transform="translate(-4,30.999999)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect7"
+         width="15"
+         height="5"
+         x="15"
+         y="-5"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#eb5128;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect8"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-5"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect9"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-6"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="hover-topright"
+       transform="translate(-9.9999999,31.999999)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path1150"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path1152"
+         style="fill:url(#linearGradient15);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect10"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect11"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect14"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+    <g
+       id="hover-topleft"
+       transform="matrix(-1,0,0,1,47,31.999999)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path15"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path16"
+         style="fill:#ff9174;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect19"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect20"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect21"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+    <g
+       id="hover-bottomright"
+       transform="matrix(1,0,0,-1,-9.9999999,15)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path21"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path22"
+         style="fill:#eb5128;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect22"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#eb5128;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect23"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect24"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+    <g
+       id="hover-bottomleft"
+       transform="rotate(180,23.5,7.4999998)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path24"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path25"
+         style="fill:url(#linearGradient33);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect25"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#eb5229;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect32"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect33"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+    <rect
+       style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="pressed-center"
+       width="15"
+       height="15"
+       x="46.000061"
+       y="15.999995" />
+    <g
+       id="pressed-left"
+       transform="rotate(-90,0.49999935,50.499999)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect44"
+         width="14.999999"
+         height="6"
+         x="20"
+         y="90" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect45"
+         width="15"
+         height="0.99999702"
+         x="20"
+         y="90" />
+    </g>
+    <g
+       id="pressed-top"
+       transform="translate(31,30.999999)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect46"
+         width="15"
+         height="5"
+         x="15"
+         y="-20" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect47"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-20" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect48"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-20.999996" />
+    </g>
+    <g
+       id="pressed-right"
+       transform="matrix(0,-1,-1,0,157,51)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect49"
+         width="15"
+         height="6"
+         x="20"
+         y="90" />
+      <rect
+         style="fill:#eb5229;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect50"
+         width="15"
+         height="0.99999702"
+         x="20"
+         y="90" />
+    </g>
+    <g
+       id="pressed-bottom"
+       transform="translate(31,30.999999)">
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect51"
+         width="15"
+         height="5"
+         x="15"
+         y="-5"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#eb5229;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect52"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-5"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect53"
+         width="15"
+         height="0.99999702"
+         x="15"
+         y="-6"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="pressed-topright"
+       transform="translate(25,31.999999)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path53"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path54"
+         style="fill:url(#linearGradient66);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect54"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect55"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect56"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+    <g
+       id="pressed-topleft"
+       transform="matrix(-1,0,0,1,82,31.999999)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path56"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path57"
+         style="fill:#ff9174;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect57"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#ff9174;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect58"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect59"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+    <g
+       id="pressed-bottomright"
+       transform="matrix(1,0,0,-1,25,15)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path59"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path60"
+         style="fill:#eb5229;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect60"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#eb5229;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect61"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect62"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+    <g
+       id="pressed-bottomleft"
+       transform="rotate(180,41,7.4999999)">
+      <path
+         style="fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path62"
+         sodipodi:type="arc"
+         sodipodi:cx="37"
+         sodipodi:cy="16"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice"
+         d="m 42,16 a 5,5 0 0 1 -5,5 v -5 z"
+         transform="scale(1,-1)" />
+      <path
+         id="path63"
+         style="fill:url(#linearGradient65);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 37,-21.000003 v 1 a 4,4.0000029 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect63"
+         width="1"
+         height="5"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:#eb5229;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect64"
+         width="1"
+         height="0.99999702"
+         x="36"
+         y="-21" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect65"
+         width="6"
+         height="5.9999971"
+         x="36"
+         y="-21.999996" />
+    </g>
+  </g>
+</svg>

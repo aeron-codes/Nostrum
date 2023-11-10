@@ -40,7 +40,7 @@ kickoff.writeConfig("global", "Alt+F1")
 kickoff.currentConfigGroup = ["General"]
 kickoff.writeConfig("favorites", ["preferred://browser", "org.kde.dolphin.desktop", "org.kde.konsole.desktop", "systemsettings.desktop"])
 
-panelTop.addWidget("org.kde.plasma.showdesktop")
+panel.addWidget("org.kde.plasma.marginsseparator")
 panelTop.addWidget("org.kde.plasma.appmenu");
 panelTop.addWidget("org.kde.plasma.panelspacer");
 

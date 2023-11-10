@@ -7,7 +7,7 @@
    viewBox="0 0 29.000019 29.000001"
    version="1.1"
    id="svg17788"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,14 +27,18 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="13.455444"
-     inkscape:cx="38.869026"
-     inkscape:cy="16.127301"
+     inkscape:cx="12.894409"
+     inkscape:cy="14.938192"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid4145"
        originx="-523.00001"
-       originy="-353.00001" />
+       originy="-353.00001"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs17785" />
@@ -44,7 +48,7 @@
      id="layer1"
      transform="translate(-523.00001,-353)">
     <rect
-       style="opacity:0.9;fill:#222224;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+       style="opacity:0.85;fill:#252230;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
        id="center"
        width="15"
        height="15"
@@ -54,20 +58,81 @@
        id="top"
        transform="translate(430.00003,230)">
       <rect
-         style="opacity:0.9;fill:#222224;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.85;fill:#252230;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2325"
          width="15"
          height="7"
          x="100"
          y="123" />
       <rect
-         style="opacity:1;fill:#242424;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:1;fill:#211f2b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2319"
          width="15"
          height="1"
          x="100"
          y="123" />
     </g>
+    <rect
+       y="-559"
+       x="355"
+       height="1"
+       width="5"
+       id="hint-bottom-margin"
+       style="opacity:0.5;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.6455"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:0.5;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.6455"
+       id="hint-left-margin"
+       width="1"
+       height="5"
+       x="354"
+       y="-558" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:0.5;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.6455"
+       id="hint-top-margin"
+       width="5"
+       height="1"
+       x="349"
+       y="-559" />
+    <rect
+       y="-564"
+       x="354"
+       height="5"
+       width="1"
+       id="hint-right-margin"
+       style="opacity:0.5;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.6455"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.875;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.755929"
+       id="hint-right-inset"
+       width="7"
+       height="1.0000019"
+       x="566"
+       y="369" />
+    <rect
+       y="379"
+       x="-565"
+       height="1.0000019"
+       width="7"
+       id="hint-left-inset"
+       style="opacity:0.875;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.755929"
+       transform="scale(-1,1)" />
+    <rect
+       style="opacity:0.875;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.755918"
+       id="hint-top-inset"
+       width="0.99996907"
+       height="7"
+       x="563.00043"
+       y="370.00006" />
+    <rect
+       y="384"
+       x="564.00006"
+       height="7"
+       width="0.99996907"
+       id="hint-bottom-inset"
+       style="opacity:0.875;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.755918" />
     <use
        x="0"
        y="0"
@@ -90,7 +155,7 @@
        id="topright"
        transform="translate(430.00003,230)">
       <path
-         style="opacity:0.9;fill:#222224;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         style="opacity:0.85;fill:#252230;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
          id="path3056"
          sodipodi:type="arc"
          sodipodi:cx="115"
@@ -104,7 +169,7 @@
          transform="scale(1,-1)" />
       <path
          id="path2909"
-         style="opacity:1;fill:#242424;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
+         style="opacity:1;fill:#211f2b;fill-opacity:1;stroke-width:1.99999;stroke-linecap:round"
          d="m 115,123 v 1 a 6,6 0 0 1 6,6 h 1 a 7,7 0 0 0 -7,-7 z" />
     </g>
     <use

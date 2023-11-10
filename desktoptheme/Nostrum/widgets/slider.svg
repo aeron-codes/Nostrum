@@ -27,8 +27,8 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="14.305562"
-     inkscape:cx="24.745621"
-     inkscape:cy="41.382507"
+     inkscape:cx="24.710668"
+     inkscape:cy="41.382506"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -312,7 +312,7 @@
        transform="matrix(1.6666667,0,0,1.6666667,-400.00001,-848.50002)"
        style="stroke-width:0.6">
       <circle
-         style="opacity:0.4;fill:#fe7551;fill-opacity:1;stroke-width:0.3;stroke-linecap:round"
+         style="opacity:0.2;fill:#fe7551;fill-opacity:1;stroke-width:0.3;stroke-linecap:round"
          id="circle30302"
          cx="291"
          cy="536.09998"
