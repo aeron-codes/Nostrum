@@ -7,15 +7,15 @@ import SddmComponents 2.0
 import "."
 
 Rectangle {
-    id : container
-    LayoutMirroring.enabled : Qt.locale().textDirection == Qt.RightToLeft
-    LayoutMirroring.childrenInherit : true
-    property int sessionIndex : session.index
+    id: container
+    LayoutMirroring.enabled: Qt.locale().textDirection == Qt.RightToLeft
+    LayoutMirroring.childrenInherit: true
+    property int sessionIndex: session.index
 
-    TextConstants { id : textConstants }
+    TextConstants { id: textConstants }
 
     Connections {
-        target : sddm
+        target: sddm
         function onLoginSucceeded() {
             errorMessage.text = textConstants.loginSucceeded
         }
@@ -23,12 +23,11 @@ Rectangle {
             password.text = ""
             errorMessage.color = "#f8724f"
             errorMessage.text = textConstants.loginFailed
-            errorMessage.bold = true
         }
     }
 
-    color : "#1e1c2c"
-    anchors.fill : parent
+    color: "#1e1c2c"
+    anchors.fill: parent
 
     Background {
         id: behind
@@ -82,13 +81,13 @@ Rectangle {
                 width: 240
                 height :28
                 TextField {
-                    id : nameinput
+                    id: nameinput
                     focus: true
-                    font.family : "Noto Sans"
+                    font.family: "Noto Sans"
                     anchors.fill: parent
-                    text : userModel.lastUser
-                    font.pixelSize : 13
-                    color : "white"
+                    text: userModel.lastUser
+                    font.pixelSize: 13
+                    color: "white"
                     background: Image {
                         id: textback
                         source: "images/inputhi.svg"
@@ -117,10 +116,10 @@ Rectangle {
                         ]
                     }
 
-                    KeyNavigation.tab : password
-                    KeyNavigation.backtab : session
+                    KeyNavigation.tab: password
+                    KeyNavigation.backtab: session
 
-                    Keys.onPressed : {
+                    Keys.onPressed: {
                         if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
                             password.focus = true
                         }
@@ -137,11 +136,11 @@ Rectangle {
             }
 
             Text {
-                id : passwordlabel
-                text : textConstants.password
-                color : "#f8f8f8"
-                font.pixelSize : 11
-                font.family : "Noto Sans"
+                id: passwordlabel
+                text: textConstants.password
+                color: "#f8f8f8"
+                font.pixelSize: 11
+                font.family: "Noto Sans"
             }
 
             Image {
@@ -149,12 +148,12 @@ Rectangle {
                 width: 240
                 height :28
                 TextField {
-                    id : password
-                    font.family : "Noto Sans"
+                    id: password
+                    font.family: "Noto Sans"
                     anchors.fill: parent
-                    font.pixelSize : 13
-                    echoMode : TextInput.Password
-                    color : "white"
+                    font.pixelSize: 13
+                    echoMode: TextInput.Password
+                    color: "white"
 
                     background: Image {
                         id: textback1
@@ -184,10 +183,10 @@ Rectangle {
                         ]
                     }
 
-                    KeyNavigation.tab : session
-                    KeyNavigation.backtab : nameinput
+                    KeyNavigation.tab: session
+                    KeyNavigation.backtab: nameinput
 
-                    Keys.onPressed : {
+                    Keys.onPressed: {
                         if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
                             sddm.login(nameinput.text, password.text, sessionIndex)
                             event.accepted = true
@@ -207,38 +206,38 @@ Rectangle {
         }
 
         Image {
-            id : loginButton
-            source : "images/buttonup.svg"
-            anchors.right : inputstack.right
+            id: loginButton
+            source: "images/buttonup.svg"
+            anchors.right: inputstack.right
             anchors.top: inputstack.bottom
             anchors.topMargin: 32
             width: 84
             height: 28
 
             MouseArea {
-                anchors.fill : parent
-                hoverEnabled : true
-                onEntered : {
+                anchors.fill: parent
+                hoverEnabled: true
+                onEntered: {
                     parent.source = "images/buttonhover.svg"
                 }
-                onExited : {
+                onExited: {
                     parent.source = "images/buttonup.svg"
                 }
-                onPressed : {
+                onPressed: {
                     parent.source = "images/buttondown.svg"
                     sddm.login(nameinput.text, password.text, sessionIndex)
                 }
-                onReleased : {
+                onReleased: {
                     parent.source = "images/buttonup.svg"
                 }
             }
 
             Text {
-                text : textConstants.login
-                anchors.centerIn : parent
-                font.family : "Noto Sans"
-                font.pixelSize : 10
-                color : "white"
+                text: textConstants.login
+                anchors.centerIn: parent
+                font.family: "Noto Sans"
+                font.pixelSize: 10
+                color: "white"
             }
         }
     }
@@ -264,35 +263,35 @@ Rectangle {
                 dateFont.family: "Noto Sans"
             }
             ComboBox {
-                id : session
-                anchors.right : parent.right
-                color : "#3b3749"
-                borderColor : "#575268"
-                hoverColor : "#e64f27"
-                focusColor : "#f8724f"
-                textColor : "#f8f8f8"
-                menuColor : "#3b3749"
+                id: session
+                anchors.right: parent.right
+                color: "#3b3749"
+                borderColor: "#575268"
+                hoverColor: "#e64f27"
+                focusColor: "#f8724f"
+                textColor: "#f8f8f8"
+                menuColor: "#3b3749"
                 arrowColor: "#3b3749"
                 borderWidth: 1
-                width : 220
-                height : 30
-                font.pixelSize : 11
-                font.family : "Noto Sans"
-                arrowIcon : "images/comboarrow.svg"
-                model : sessionModel
-                index : sessionModel.lastIndex
-                KeyNavigation.backtab : password
-                KeyNavigation.tab : nameinput
+                width: 220
+                height: 30
+                font.pixelSize: 11
+                font.family: "Noto Sans"
+                arrowIcon: "images/comboarrow.svg"
+                model: sessionModel
+                index: sessionModel.lastIndex
+                KeyNavigation.backtab: password
+                KeyNavigation.tab: nameinput
             }
         }
     }
 
         Image {
-            id : shutdownButton
-            source : "images/shutdown.svg"
-            anchors.right : parent.right
-            anchors.bottom : parent.bottom
-            anchors.rightMargin : 12
+            id: shutdownButton
+            source: "images/shutdown.svg"
+            anchors.right: parent.right
+            anchors.bottom: parent.bottom
+            anchors.rightMargin: 12
             anchors.bottomMargin: 8
             height: 28
             width: 28
@@ -300,34 +299,34 @@ Rectangle {
             property string toolTipText1: textConstants.shutdown
             ToolTip.text: toolTipText1
             ToolTip.delay: 500
-            ToolTip.visible: toolTipText1 ? ma1.containsMouse : false
+            ToolTip.visible: toolTipText1 ? ma1.containsMouse: false
 
             MouseArea {
                 id: ma1
-                anchors.fill : parent
-                hoverEnabled : true
-                onEntered : {
+                anchors.fill: parent
+                hoverEnabled: true
+                onEntered: {
                     parent.source = "images/shutdownhover.svg"
                 }
-                onExited : {
+                onExited: {
                     parent.source = "images/shutdown.svg"
                 }
-                onPressed : {
+                onPressed: {
                     parent.source = "images/shutdownpressed.svg"
                     sddm.powerOff()
                 }
-                onReleased : {
+                onReleased: {
                     parent.source = "images/shutdown.svg"
                 }
             }
         }
 
         Image {
-            id : rebootButton
-            source : "images/reboot.svg"
-            anchors.right : shutdownButton.left
-            anchors.bottom : parent.bottom
-            anchors.rightMargin : 12
+            id: rebootButton
+            source: "images/reboot.svg"
+            anchors.right: shutdownButton.left
+            anchors.bottom: parent.bottom
+            anchors.rightMargin: 12
             anchors.bottomMargin: 8
             height: 28
             width: 28
@@ -335,24 +334,24 @@ Rectangle {
             property string toolTipText2: textConstants.reboot
             ToolTip.text: toolTipText2
             ToolTip.delay: 500
-            ToolTip.visible: toolTipText2 ? ma2.containsMouse : false
+            ToolTip.visible: toolTipText2 ? ma2.containsMouse: false
 
 
             MouseArea {
                 id: ma2
-                anchors.fill : parent
-                hoverEnabled : true
-                onEntered : {
+                anchors.fill: parent
+                hoverEnabled: true
+                onEntered: {
                     parent.source = "images/reboothover.svg"
                 }
-                onExited : {
+                onExited: {
                     parent.source = "images/reboot.svg"
                 }
-                onPressed : {
+                onPressed: {
                     parent.source = "images/rebootpressed.svg"
                     sddm.reboot()
                 }
-                onReleased : {
+                onReleased: {
                     parent.source = "images/reboot.svg"
                 }
             }
@@ -373,26 +372,27 @@ Rectangle {
             spacing: 7
 
             Text {
-                id : lblSession
-                anchors.horizontalCenter : parent.horizontalCenter
-                text : textConstants.welcomeText.arg(sddm.hostName)
-                font.pixelSize : 26
-                font.family : "Noto Sans"
-                color : "#f8f8f8"
+                id: lblSession
+                anchors.horizontalCenter: parent.horizontalCenter
+                text: "Welcome to Plasma-Desktop"
+                // text: textConstants.welcomeText.arg(sddm.hostName)
+                font.pixelSize: 26
+                font.family: "Noto Sans"
+                color: "#f8f8f8"
             }
 
             Text {
                 id: errorMessage
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: textConstants.prompt
-                font.family : "Noto Sans"
+                font.family: "Noto Sans"
                 font.pixelSize: 11
-                color : "#f8f8f8"
+                color: "#f8f8f8"
             }
         }
     }
 
-    Component.onCompleted : {
+    Component.onCompleted: {
         nameinput.focus = true
         textback1.state = "nay1"  //dunno why both inputs get focused
     }
