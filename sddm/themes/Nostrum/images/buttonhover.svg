@@ -21,8 +21,20 @@
      id="defs5774">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6532"
-       id="linearGradient10893"
+       id="linearGradient2">
+      <stop
+         style="stop-color:#ff9174;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#eb5229;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient8986"
        gradientUnits="userSpaceOnUse"
        x1="265"
        y1="616"
@@ -30,20 +42,8 @@
        y2="620" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient6532">
-      <stop
-         style="stop-color:#47475b;stop-opacity:1"
-         offset="0"
-         id="stop11328" />
-      <stop
-         style="stop-color:#363349;stop-opacity:1"
-         offset="1"
-         id="stop11330" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6532"
-       id="linearGradient10891"
+       xlink:href="#linearGradient2"
+       id="linearGradient8984"
        gradientUnits="userSpaceOnUse"
        x1="269"
        y1="620"
@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="28.019106"
-     inkscape:cy="5.7452426"
+     inkscape:zoom="11.313709"
+     inkscape:cx="4.3752232"
+     inkscape:cy="21.38998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -112,37 +112,37 @@
      id="layer1"
      transform="translate(63.000014,-290.64995)">
     <rect
-       style="fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
-       id="bttn-focused"
-       width="74"
+       style="fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+       id="bttn-normal"
+       width="74.000008"
        height="17.999987"
-       x="-58.000053"
+       x="-58.000019"
        y="295.64996" />
     <g
-       id="bttn-focused-top"
-       transform="matrix(4.9333333,0,0,1,-1291.3333,-324.35005)"
-       style="stroke-width:0.450225">
+       id="bttn-normal-top"
+       transform="matrix(4.9333337,0,0,1,-1291.3334,-324.35005)"
+       style="stroke-width:0.450226">
       <rect
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.225113;stroke-linecap:round"
-         id="rect10843"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.225112;stroke-linecap:round"
+         id="rect8936"
          width="15"
          height="5"
          x="250"
          y="615" />
       <rect
-         style="opacity:1;fill:#47475b;fill-opacity:1;stroke:none;stroke-width:0.225112;stroke-linecap:round"
-         id="rect10845"
+         style="opacity:1;fill:#ff9174;fill-opacity:1;stroke:none;stroke-width:0.225111;stroke-linecap:round"
+         id="rect8938"
          width="15"
          height="1"
          x="250"
          y="615" />
     </g>
     <g
-       id="bttn-focused-topright"
-       transform="translate(-249.00005,-324.35005)">
+       id="bttn-normal-topright"
+       transform="translate(-249.00002,-324.35006)">
       <path
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
-         id="path10849"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8942"
          sodipodi:type="arc"
          sodipodi:cx="265"
          sodipodi:cy="-620"
@@ -154,16 +154,16 @@
          d="m 270,-620 a 5,5 0 0 1 -5,5 v -5 z"
          transform="scale(1,-1)" />
       <path
-         id="path10851"
-         style="opacity:1;fill:url(#linearGradient10893);fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8944"
+         style="opacity:1;fill:url(#linearGradient8986);fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <g
-       id="bttn-focused-topleft"
-       transform="matrix(-1,0,0,1,206.99995,-324.35005)">
+       id="bttn-normal-topleft"
+       transform="matrix(-1,0,0,1,206.99999,-324.35005)">
       <path
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
-         id="path10855"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8948"
          sodipodi:type="arc"
          sodipodi:cx="265"
          sodipodi:cy="-620"
@@ -175,35 +175,35 @@
          d="m 270,-620 a 5,5 0 0 1 -5,5 v -5 z"
          transform="scale(1,-1)" />
       <path
-         id="path10857"
-         style="opacity:1;fill:#47475b;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8950"
+         style="opacity:1;fill:#ff9174;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <g
-       id="bttn-focused-right"
-       transform="matrix(0,1.1999993,-1,0,635.99996,-4.349873)"
+       id="bttn-normal-right"
+       transform="matrix(0,1.2,-1,0,635.99999,-4.35005)"
        style="stroke-width:0.912871">
       <rect
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.456436;stroke-linecap:round"
-         id="rect10861"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.456435;stroke-linecap:round"
+         id="rect8954"
          width="15"
          height="5"
          x="250"
          y="615" />
       <rect
-         style="opacity:1;fill:#363349;fill-opacity:1;stroke:none;stroke-width:0.456434;stroke-linecap:round"
-         id="rect10863"
+         style="opacity:1;fill:#eb5229;fill-opacity:1;stroke:none;stroke-width:0.456434;stroke-linecap:round"
+         id="rect8956"
          width="15"
          height="1"
          x="250"
          y="615" />
     </g>
     <g
-       id="bttn-focused-bottomleft"
-       transform="rotate(180,103.49997,466.82497)">
+       id="bttn-normal-bottomleft"
+       transform="rotate(180,103.49999,466.82497)">
       <path
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
-         id="path10867"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8960"
          sodipodi:type="arc"
          sodipodi:cx="265"
          sodipodi:cy="-620"
@@ -215,16 +215,16 @@
          d="m 270,-620 a 5,5 0 0 1 -5,5 v -5 z"
          transform="scale(1,-1)" />
       <path
-         id="path10869"
-         style="opacity:1;fill:url(#linearGradient10891);fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8962"
+         style="opacity:1;fill:url(#linearGradient8984);fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <g
-       id="bttn-focused-bottomright"
-       transform="matrix(1,0,0,-1,-249.00005,933.64995)">
+       id="bttn-normal-bottomright"
+       transform="matrix(1,0,0,-1,-249.00001,933.64995)">
       <path
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
-         id="path10873"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8966"
          sodipodi:type="arc"
          sodipodi:cx="265"
          sodipodi:cy="-620"
@@ -236,43 +236,43 @@
          d="m 270,-620 a 5,5 0 0 1 -5,5 v -5 z"
          transform="scale(1,-1)" />
       <path
-         id="path10875"
-         style="opacity:1;fill:#363349;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         id="path8968"
+         style="opacity:1;fill:#eb5229;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <g
-       id="bttn-focused-left"
-       transform="matrix(0,-1.2,1,0,-678.00005,613.64995)"
+       id="bttn-normal-left"
+       transform="matrix(0,-1.1999991,1,0,-678.00001,613.64972)"
        style="stroke-width:0.912871">
       <rect
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.456435;stroke-linecap:round"
-         id="rect10879"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.456436;stroke-linecap:round"
+         id="rect8972"
          width="15"
          height="5"
          x="250"
          y="615" />
       <rect
-         style="opacity:1;fill:#47475b;fill-opacity:1;stroke:none;stroke-width:0.456434;stroke-linecap:round"
-         id="rect10881"
+         style="opacity:1;fill:#ff9174;fill-opacity:1;stroke:none;stroke-width:0.456434;stroke-linecap:round"
+         id="rect8974"
          width="15"
          height="1"
          x="250"
          y="615" />
     </g>
     <g
-       id="bttn-focused-bottom"
-       transform="matrix(4.9333343,0,0,-1,-1291.3336,933.64995)"
+       id="bttn-normal-bottom"
+       transform="matrix(4.9333341,0,0,-1,-1291.3335,933.64994)"
        style="stroke-width:0.450225">
       <rect
-         style="opacity:1;fill:#423d51;fill-opacity:1;stroke:none;stroke-width:0.225113;stroke-linecap:round"
-         id="rect10885"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.225112;stroke-linecap:round"
+         id="rect8978"
          width="15"
          height="5"
          x="250"
          y="615" />
       <rect
-         style="opacity:1;fill:#363349;fill-opacity:1;stroke:none;stroke-width:0.225112;stroke-linecap:round"
-         id="rect10887"
+         style="opacity:1;fill:#eb5229;fill-opacity:1;stroke:none;stroke-width:0.225111;stroke-linecap:round"
+         id="rect8980"
          width="15"
          height="1"
          x="250"

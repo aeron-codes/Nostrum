@@ -28,47 +28,6 @@ Rectangle {
     anchors.fill: parent
     property int stage
 
-    // onStageChanged: {
-    //     if (stage == 2) {
-    //         introAnimation.running = true;
-    //     } else if (stage == 5) {
-    //         introAnimation.target = busyIndicator;
-    //         introAnimation.from = 1;
-    //         introAnimation.to = 0;
-    //         introAnimation.running = true;
-    //     }
-    // }
-
-
-    // Image {
-    //     id: busyIndicator
-    //     anchors.horizontalCenter: parent.horizontalCenter
-    //     anchors.verticalCenter: parent.verticalCenter
-    //     width: 96
-    //     height: 96
-    //     source: "images/logo.png"
-    //     RotationAnimator on rotation {
-    //         id: rotationAnimator
-    //         from: 0
-    //         to: 360
-    //         duration: 3900
-    //         loops: Animation.Infinite
-    //     }
-    // }
-
-    // OpacityAnimator {
-    //     id: introAnimation
-    //     running: false
-    //     target: busyIndicator
-    //     from: 0
-    //     to: 1
-    //     duration: 1000
-    //     easing.type: Easing.InOutQuad
-    // }
-
-
-
-
     property variant images : [
         "images/spinner1.png",
         "images/spinner2.png",
@@ -88,17 +47,11 @@ Rectangle {
             id: spinner
             source: modelData;
             asynchronous: true;
+            height: 72
+            width: 72
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
             visible: (model.index === currentImage);
-
-            OpacityAnimator {
-                target: spinner;
-                from: 0;
-                to: 1;
-                duration: 100;
-                running: true
-            }
         }
     }
 

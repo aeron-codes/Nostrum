@@ -43,7 +43,7 @@ Column {
         horizontalAlignment: Text.AlignRight
         color: container.color
         text : Qt.formatDateTime(container.dateTime, "HH:mm t")
-        font.pointSize: 24
+        font.pixelSize: 26
         font.weight: Font.Light
         // font.italic: true
     }
@@ -54,6 +54,6 @@ Column {
         horizontalAlignment: Text.AlignRight
         color: container.color
         text : Qt.formatDateTime(container.dateTime, "dddd, d MMMM")
-        font.pointSize: 10
+        font.pixelSize: 11
     }
 }

@@ -74,33 +74,89 @@ Rectangle {
 
             Text {
                 id: userlabel
-                font.family: promptfont.name
-                font.pointSize: 10
+                font.family: "Noto Sans"
+                font.pixelSize: 11
                 text: textConstants.userName
-                color: "white"
+                color: "#f8f8f8"
             }
 
-            TextField {
-                id : nameinput
-                font.family : loginfont.name
-                font.weight: Font.Normal
-                width : 280
-                height : 32
-                text : userModel.lastUser
-                font.pointSize : 10
-                // verticalAlignment: TextInput.AlignCenter
-                color : "white"
+            // TextField {
+            //     id : nameinput
+            //     font.family : "Noto Sans"
+            //     width : 280
+            //     height : 32
+            //     text : userModel.lastUser
+            //     font.pixelSize : 13
+            //     // verticalAlignment: TextInput.AlignCenter
+            //     color : "white"
+            //
+            //     background : Image {
+            //         source : "images/input.svg"
+            //     }
+            //
+            //     KeyNavigation.tab : password
+            //
+            //     Keys.onPressed : {
+            //         if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
+            //             password.focus = true
+            //             event.accepted = true
+            //         }
+            //     }
+            // }
+            Image {
+                source: "images/input.svg"
+                width: 240
+                height :28
+                TextField {
+                    id : nameinput
+                    focus: true
+                    font.family : "Noto Sans"
+                    anchors.fill: parent
+                    text : userModel.lastUser
+                    font.pixelSize : 13
+                    color : "white"
+                    background: Image {
+                        id: textback
+                        source: "images/inputhi.svg"
 
-                background : Image {
-                    source : "images/input.svg"
-                }
+                        states: [
+                            State {
+                                name: "yay"
+                                PropertyChanges {target: textback; opacity: 1}
+                            },
+                            State {
+                                name: "nay"
+                                PropertyChanges {target: textback; opacity: 0}
+                            }
+                        ]
 
-                KeyNavigation.tab : password
+                        transitions: [
+                            Transition {
+                                to: "yay"
+                                NumberAnimation { target: textback; property: "opacity"; from: 0; to: 1; duration: 200; }
+                            },
 
-                Keys.onPressed : {
-                    if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
-                        password.focus = true
-                        event.accepted = true
+                            Transition {
+                                to: "nay"
+                                NumberAnimation { target: textback; property: "opacity"; from: 1; to: 0; duration: 200; }
+                            }
+                        ]
+                    }
+
+                    KeyNavigation.tab : password
+
+                    Keys.onPressed : {
+                        if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
+                            password.focus = true
+                        }
+                    }
+
+                    onActiveFocusChanged: {
+                        if (activeFocus) {
+                            textback.state = "yay"
+                        } else {
+                            textback.state = "nay"
+                        }
                     }
                 }
             }
@@ -108,32 +164,91 @@ Rectangle {
             Text {
                 id : passwordlabel
                 text : textConstants.password
-                color : "white"
-                font.pointSize : 10
-                font.family : promptfont.name
+                color : "#f8f8f8"
+                font.pixelSize : 11
+                font.family : "Noto Sans"
             }
 
-            TextField {
-                id : password
-                font.pointSize : 10
-                echoMode : TextInput.Password
-                font.family : loginfont.name
-                color : "white"
-                width : 280
-                height : 32
+            // TextField {
+            //     id : password
+            //     font.pointSize : 10
+            //     echoMode : TextInput.Password
+            //     font.family : "Noto Sans"
+            //     color : "white"
+            //     width : 280
+            //     height : 32
+            //
+            //     background : Image {
+            //         source : "images/input.svg"
+            //     }
+            //
+            //     KeyNavigation.backtab : nameinput
+            //     KeyNavigation.tab : loginButton
+            //     // focus : true
+            //
+            //     Keys.onPressed : {
+            //         if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
+            //             sddm.login(nameinput.text, password.text, sessionIndex)
+            //             event.accepted = true
+            //         }
+            //     }
+            // }
+            Image {
+                source: "images/input.svg"
+                width: 240
+                height :28
+                TextField {
+                    id : password
+                    font.family : "Noto Sans"
+                    anchors.fill: parent
+                    font.pixelSize : 13
+                    echoMode : TextInput.Password
+                    color : "white"
 
-                background : Image {
-                    source : "images/input.svg"
-                }
+                    background: Image {
+                        id: textback1
+                        source: "images/inputhi.svg"
 
-                KeyNavigation.backtab : nameinput
-                KeyNavigation.tab : loginButton
-                focus : true
+                        states: [
+                            State {
+                                name: "yay1"
+                                PropertyChanges {target: textback1; opacity: 1}
+                            },
+                            State {
+                                name: "nay1"
+                                PropertyChanges {target: textback1; opacity: 0}
+                            }
+                        ]
 
-                Keys.onPressed : {
-                    if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
-                        sddm.login(nameinput.text, password.text, sessionIndex)
-                        event.accepted = true
+                        transitions: [
+                            Transition {
+                                to: "yay1"
+                                NumberAnimation { target: textback1; property: "opacity"; from: 0; to: 1; duration: 200; }
+                            },
+
+                            Transition {
+                                to: "nay1"
+                                NumberAnimation { target: textback1; property: "opacity"; from: 1; to: 0; duration: 200; }
+                            }
+                        ]
+                    }
+
+                    KeyNavigation.tab : loginButton
+                    KeyNavigation.backtab : nameinput
+
+                    Keys.onPressed : {
+                        if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
+                            sddm.login(nameinput.text, password.text, sessionIndex)
+                            event.accepted = true
+                        }
+                    }
+
+                    onActiveFocusChanged: {
+                        if (activeFocus) {
+                            textback1.state = "yay1"
+                        } else {
+                            textback1.state = "nay1"
+                        }
                     }
                 }
             }
@@ -170,13 +285,13 @@ Rectangle {
             Text {
                 text : textConstants.login
                 anchors.centerIn : parent
-                font.family : loginfont.name
-                font.pointSize : 8
+                font.family : "Noto Sans"
+                font.pixelSize : 10
                 color : "white"
             }
 
             KeyNavigation.backtab : password
-            KeyNavigation.tab : shutdownButton
+            KeyNavigation.tab : nameinput
         }
     }
 
@@ -192,27 +307,29 @@ Rectangle {
             id: leftstack
             anchors.right: parent.right
             anchors.verticalCenter: parent.verticalCenter
-            spacing: 16
+            spacing: 22
             Clock2 {
                 id: clock
                 anchors.right: parent.right
                 color: "white"
-                timeFont.family: promptfont.name
-                dateFont.family: loginfont.name
+                timeFont.family: "Noto Sans"
+                dateFont.family: "Noto Sans"
             }
             ComboBox {
                 id : session
                 anchors.right : parent.right
                 color : "#3b3749"
-                borderColor : "#353242"
-                hoverColor : "#f8724f"
+                borderColor : "#575268"
+                hoverColor : "#e64f27"
                 focusColor : "#f8724f"
                 textColor : "#f8f8f8"
                 menuColor : "#3b3749"
-                width : 180
+                arrowColor: "#3b3749"
+                borderWidth: 1
+                width : 220
                 height : 30
-                font.pointSize : 10
-                font.family : loginfont.name
+                font.pixelSize : 11
+                font.family : "Noto Sans"
                 arrowIcon : "images/comboarrow.svg"
                 model : sessionModel
                 index : sessionModel.lastIndex
@@ -300,8 +417,8 @@ Rectangle {
                 id : lblSession
                 anchors.horizontalCenter : parent.horizontalCenter
                 text : textConstants.welcomeText.arg(sddm.hostName)
-                font.pointSize : 24
-                font.family : loginfont.name
+                font.pixelSize : 26
+                font.family : "Noto Sans"
                 color : "#f8f8f8"
             }
 
@@ -309,10 +426,15 @@ Rectangle {
                 id: errorMessage
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: textConstants.prompt
-                font.family : loginfont.name
-                font.pointSize: 10
+                font.family : "Noto Sans"
+                font.pixelSize: 11
                 color : "#f8f8f8"
             }
         }
+    }
+
+    Component.onCompleted : {
+        nameinput.focus = true
+        textback1.state = "nay1"  //dunno why both inputs get focused
     }
 }
