@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="18.729426"
-     inkscape:cx="106.4101"
-     inkscape:cy="6.1934626"
+     inkscape:zoom="37.458852"
+     inkscape:cx="101.93852"
+     inkscape:cy="5.6061515"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -59,11 +59,11 @@
        id="base-hint-left-margin"
        height="1"
        style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke-width:0.999997"
-       width="5"
-       x="483"
+       width="6"
+       x="482"
        y="-400" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+       style="fill:#292635;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
        id="base-center"
        width="15"
        height="15"
@@ -109,7 +109,7 @@
        id="base-top"
        transform="translate(205,-1021)">
       <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+         style="opacity:1;fill:#292635;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
          id="rect3225"
          width="15"
          height="5"
@@ -127,7 +127,7 @@
        id="base-topright"
        transform="translate(205,-1021)">
       <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         style="opacity:1;fill:#292635;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          id="path3267"
          sodipodi:type="arc"
          sodipodi:cx="265"
@@ -148,23 +148,23 @@
        id="base-hint-right-margin"
        height="1"
        style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke-width:0.999997"
-       width="5"
+       width="6"
        x="491"
        y="-400" />
     <rect
        id="base-hint-bottom-margin"
-       height="5"
+       height="6.00003"
        style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke-width:0.999995"
        x="489"
        y="-398"
        width="1" />
     <rect
        id="base-hint-top-margin"
-       height="5"
+       height="5.9999695"
        style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke-width:0.999995"
        width="1"
        x="489"
-       y="-406" />
+       y="-406.99997" />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
        id="hover-center"
@@ -183,7 +183,7 @@
          x="250"
          y="615" />
       <rect
-         style="opacity:0.9;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
          id="rect4895"
          width="15"
          height="1"
@@ -208,7 +208,7 @@
          transform="scale(1,-1)" />
       <path
          id="path4901"
-         style="opacity:0.9;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.500001;stroke-linecap:round"
          d="m 265,615 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
     <use
@@ -293,7 +293,7 @@
          x="250"
          y="615" />
       <rect
-         style="opacity:0.3;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none"
+         style="opacity:0.15;fill:#fe9378;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none"
          id="rect5140"
          width="15"
          height="2.0000305"
@@ -365,7 +365,7 @@
        x="486"
        y="-390.01001" />
     <path
-       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#fe7551;stroke-width:2;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1"
+       style="opacity:0.15;fill:none;fill-opacity:1;stroke:#fe9378;stroke-width:2;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1"
        id="focus-topright"
        sodipodi:type="arc"
        sodipodi:cx="555"

@@ -27,8 +27,8 @@
      showgrid="true"
      shape-rendering="crispEdges"
      inkscape:zoom="23.969781"
-     inkscape:cx="33.709111"
-     inkscape:cy="3.7964469"
+     inkscape:cx="31.018222"
+     inkscape:cy="8.3438393"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -48,7 +48,7 @@
      id="layer1"
      transform="translate(-190,-290)">
     <rect
-       style="fill:#221c36;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+       style="fill:#292635;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
        id="plain-center"
        width="15"
        height="15"
@@ -121,14 +121,14 @@
     <g
        id="plain-top">
       <rect
-         style="fill:#221c36;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
+         style="fill:#292635;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round"
          id="rect7656"
          width="15"
          height="5"
          x="210"
          y="290" />
       <rect
-         style="opacity:0.35;fill:#6a647f;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.499998;stroke-linecap:round"
          id="rect7650"
          width="15"
          height="1"
@@ -138,7 +138,7 @@
     <g
        id="plain-topright">
       <path
-         style="fill:#221c36;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#292635;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="path7736"
          sodipodi:type="arc"
          sodipodi:cx="225"
@@ -152,7 +152,7 @@
          transform="scale(1,-1)" />
       <path
          id="path7658"
-         style="opacity:0.35;fill:#6a647f;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          d="m 225,290 v 1 a 4,4 0 0 1 4,4 h 1 a 5,5 0 0 0 -5,-5 z" />
     </g>
   </g>

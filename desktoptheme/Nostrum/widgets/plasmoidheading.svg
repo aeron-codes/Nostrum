@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="7.8132026"
-     inkscape:cx="27.965485"
-     inkscape:cy="20.478158"
+     inkscape:zoom="15.626405"
+     inkscape:cx="54.683082"
+     inkscape:cy="11.518964"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -213,7 +213,7 @@
          x="325"
          y="460" />
       <rect
-         style="opacity:1;fill:#6a647f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect864"
          width="15"
          height="1.00002"
@@ -272,7 +272,7 @@
          y="-445"
          transform="scale(1,-1)" />
       <rect
-         style="opacity:1;fill:#6a647f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
+         style="opacity:0.5;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round"
          id="rect2814"
          width="15"
          height="0.99998003"

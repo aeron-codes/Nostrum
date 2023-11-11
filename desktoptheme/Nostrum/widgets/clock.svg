@@ -26,9 +26,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="3.7700254"
-     inkscape:cx="149.33586"
-     inkscape:cy="69.230302"
+     inkscape:zoom="30.160203"
+     inkscape:cx="136.05678"
+     inkscape:cy="104.50858"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -48,20 +48,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-110,-395)">
+    <circle
+       style="opacity:0.22;fill:#e26a49;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="HandCenterScrew2"
+       cx="243.82767"
+       cy="439.34851"
+       r="3.5" />
     <g
        id="ClockFace">
       <circle
-         style="opacity:0.3;fill:#6a647f;fill-opacity:1;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.85;fill:#231e33;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
          id="circle1649"
          cx="174"
-         cy="459"
-         r="47" />
+         cy="463"
+         r="46.999958" />
       <circle
-         style="opacity:1;fill:#ffffff;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="circle2445"
          cx="174"
-         cy="421"
-         r="2" />
+         cy="425"
+         r="2.5" />
       <use
          x="0"
          y="0"
@@ -81,11 +87,11 @@
          id="use8835"
          transform="translate(-38,38)" />
       <circle
-         style="opacity:1;fill:#919191;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#454155;fill-opacity:1;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:round"
          id="circle8891"
-         cx="380.18677"
-         cy="272.51437"
-         r="2"
+         cx="382.18677"
+         cy="275.97849"
+         r="1.25"
          inkscape:transform-center-y="-32.894823"
          inkscape:transform-center-x="-19.009624"
          transform="rotate(30)" />
@@ -96,7 +102,7 @@
          inkscape:transform-center-x="-32.910231"
          inkscape:transform-center-y="-18.98294"
          id="use8893"
-         transform="rotate(30,173.98459,458.99258)" />
+         transform="rotate(30,173.98459,462.99258)" />
       <use
          x="0"
          y="0"
@@ -104,7 +110,7 @@
          inkscape:transform-center-x="-32.894828"
          inkscape:transform-center-y="19.009627"
          id="use8895"
-         transform="rotate(60,173.98459,458.99258)" />
+         transform="rotate(60,173.98459,462.99258)" />
       <use
          x="0"
          y="0"
@@ -112,7 +118,7 @@
          inkscape:transform-center-x="-18.982945"
          inkscape:transform-center-y="32.910234"
          id="use8897"
-         transform="rotate(30,173.98459,458.99258)" />
+         transform="rotate(30,173.98459,462.99258)" />
       <use
          x="0"
          y="0"
@@ -120,7 +126,7 @@
          inkscape:transform-center-x="19.009622"
          inkscape:transform-center-y="32.894831"
          id="use8899"
-         transform="rotate(60,173.98459,458.99258)" />
+         transform="rotate(60,173.98459,462.99258)" />
       <use
          x="0"
          y="0"
@@ -128,7 +134,7 @@
          inkscape:transform-center-x="32.910229"
          inkscape:transform-center-y="18.982948"
          id="use8901"
-         transform="rotate(30,173.98459,458.99258)" />
+         transform="rotate(30,173.98459,462.99258)" />
       <use
          x="0"
          y="0"
@@ -136,7 +142,7 @@
          inkscape:transform-center-x="32.894826"
          inkscape:transform-center-y="-19.009619"
          id="use8903"
-         transform="rotate(60,173.98459,458.99258)" />
+         transform="rotate(60,173.98459,462.99258)" />
       <use
          x="0"
          y="0"
@@ -144,73 +150,85 @@
          inkscape:transform-center-x="18.982943"
          inkscape:transform-center-y="-32.910226"
          id="use8905"
-         transform="rotate(30,173.98459,458.99258)" />
-    </g>
-    <g
-       id="MinuteHand"
-       transform="translate(79)">
-      <rect
-         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect14613"
-         width="12"
-         height="45"
-         x="168"
-         y="459" />
-      <rect
-         style="opacity:1;fill:#919191;fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
-         id="rect14555"
-         width="6"
-         height="38.999874"
-         x="171"
-         y="461.00009"
-         ry="3"
-         rx="3" />
+         transform="rotate(30,173.98459,462.99258)" />
     </g>
     <g
        id="HourHand"
-       transform="translate(91)">
+       transform="translate(-19,0.9999644)">
       <rect
          style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="rect14642"
          width="12"
          height="45"
-         x="168"
+         x="259"
          y="459" />
       <rect
-         style="opacity:1;fill:#f1f1f1;fill-opacity:1;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
          id="rect14644"
-         width="6"
-         height="29.000061"
-         x="171"
-         y="460.99988"
+         width="4"
+         height="28.000029"
+         x="263"
+         y="461.99997"
          ry="3"
-         rx="3" />
+         rx="2" />
+      <circle
+         style="opacity:1;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:0.5;paint-order:stroke fill markers"
+         id="path1"
+         cx="265"
+         cy="465.49997"
+         r="3.5" />
     </g>
-    <circle
-       style="opacity:1;fill:#e26a49;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="HandCenterScrew"
-       cx="243.82767"
-       cy="439.34851"
-       r="5" />
     <g
-       id="SecondHand"
-       transform="translate(115)">
+       id="MinuteHand"
+       transform="translate(-30,0.9999644)">
       <rect
          style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect21861"
+         id="rect1"
          width="12"
          height="45"
-         x="168"
+         x="259"
          y="459" />
       <rect
-         style="opacity:1;fill:#e26a49;fill-opacity:1;stroke-width:0.707102;stroke-linecap:round;stroke-linejoin:round"
-         id="rect21863"
+         style="fill:#d1d1d1;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2"
+         width="4"
+         height="36.999996"
+         x="263"
+         y="463.99997"
+         ry="3"
+         rx="2" />
+      <circle
+         style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:0.5;paint-order:stroke fill markers"
+         id="circle2"
+         cx="265"
+         cy="464.60001"
+         r="2.5999999" />
+    </g>
+    <g
+       id="SecondHand"
+       transform="translate(-7,0.9999644)">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3"
+         width="12"
+         height="45"
+         x="259"
+         y="459" />
+      <rect
+         style="fill:#fe7551;fill-opacity:1;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4"
          width="2"
-         height="39.000042"
-         x="173"
-         y="460.99997"
-         ry="1"
+         height="36.999935"
+         x="264"
+         y="464"
+         ry="2"
          rx="1" />
+      <circle
+         style="opacity:1;fill:#fe7551;fill-opacity:1;stroke:none;stroke-width:0.5;paint-order:stroke fill markers"
+         id="circle4"
+         cx="265"
+         cy="464.79999"
+         r="1.8" />
     </g>
   </g>
 </svg>
