@@ -14,9 +14,6 @@ Rectangle {
 
     TextConstants { id : textConstants }
 
-    FontLoader { id : loginfont; source : "fonts/RedHatText-Regular.otf" }
-    FontLoader { id : promptfont; source : "fonts/RedHatText-Light.otf" }
-
     Connections {
         target : sddm
         function onLoginSucceeded() {
@@ -70,7 +67,7 @@ Rectangle {
             id: inputstack
             anchors.left: parent.left
             anchors.verticalCenter: parent.verticalCenter
-            spacing: 7
+            spacing: 6
 
             Text {
                 id: userlabel
@@ -80,29 +77,6 @@ Rectangle {
                 color: "#f8f8f8"
             }
 
-            // TextField {
-            //     id : nameinput
-            //     font.family : "Noto Sans"
-            //     width : 280
-            //     height : 32
-            //     text : userModel.lastUser
-            //     font.pixelSize : 13
-            //     // verticalAlignment: TextInput.AlignCenter
-            //     color : "white"
-            //
-            //     background : Image {
-            //         source : "images/input.svg"
-            //     }
-            //
-            //     KeyNavigation.tab : password
-            //
-            //     Keys.onPressed : {
-            //         if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
-            //             password.focus = true
-            //             event.accepted = true
-            //         }
-            //     }
-            // }
             Image {
                 source: "images/input.svg"
                 width: 240
@@ -144,6 +118,7 @@ Rectangle {
                     }
 
                     KeyNavigation.tab : password
+                    KeyNavigation.backtab : session
 
                     Keys.onPressed : {
                         if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
@@ -169,30 +144,6 @@ Rectangle {
                 font.family : "Noto Sans"
             }
 
-            // TextField {
-            //     id : password
-            //     font.pointSize : 10
-            //     echoMode : TextInput.Password
-            //     font.family : "Noto Sans"
-            //     color : "white"
-            //     width : 280
-            //     height : 32
-            //
-            //     background : Image {
-            //         source : "images/input.svg"
-            //     }
-            //
-            //     KeyNavigation.backtab : nameinput
-            //     KeyNavigation.tab : loginButton
-            //     // focus : true
-            //
-            //     Keys.onPressed : {
-            //         if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
-            //             sddm.login(nameinput.text, password.text, sessionIndex)
-            //             event.accepted = true
-            //         }
-            //     }
-            // }
             Image {
                 source: "images/input.svg"
                 width: 240
@@ -233,7 +184,7 @@ Rectangle {
                         ]
                     }
 
-                    KeyNavigation.tab : loginButton
+                    KeyNavigation.tab : session
                     KeyNavigation.backtab : nameinput
 
                     Keys.onPressed : {
@@ -289,9 +240,6 @@ Rectangle {
                 font.pixelSize : 10
                 color : "white"
             }
-
-            KeyNavigation.backtab : password
-            KeyNavigation.tab : nameinput
         }
     }
 
@@ -333,8 +281,8 @@ Rectangle {
                 arrowIcon : "images/comboarrow.svg"
                 model : sessionModel
                 index : sessionModel.lastIndex
-                KeyNavigation.backtab : nameinput
-                KeyNavigation.tab : password
+                KeyNavigation.backtab : password
+                KeyNavigation.tab : nameinput
             }
         }
     }
@@ -346,8 +294,16 @@ Rectangle {
             anchors.bottom : parent.bottom
             anchors.rightMargin : 12
             anchors.bottomMargin: 8
+            height: 28
+            width: 28
+
+            property string toolTipText1: textConstants.shutdown
+            ToolTip.text: toolTipText1
+            ToolTip.delay: 500
+            ToolTip.visible: toolTipText1 ? ma1.containsMouse : false
 
             MouseArea {
+                id: ma1
                 anchors.fill : parent
                 hoverEnabled : true
                 onEntered : {
@@ -364,9 +320,6 @@ Rectangle {
                     parent.source = "images/shutdown.svg"
                 }
             }
-
-            KeyNavigation.backtab : rebootButton
-            KeyNavigation.tab : rebootButton
         }
 
         Image {
@@ -376,8 +329,17 @@ Rectangle {
             anchors.bottom : parent.bottom
             anchors.rightMargin : 12
             anchors.bottomMargin: 8
+            height: 28
+            width: 28
+
+            property string toolTipText2: textConstants.reboot
+            ToolTip.text: toolTipText2
+            ToolTip.delay: 500
+            ToolTip.visible: toolTipText2 ? ma2.containsMouse : false
+
 
             MouseArea {
+                id: ma2
                 anchors.fill : parent
                 hoverEnabled : true
                 onEntered : {
@@ -394,9 +356,6 @@ Rectangle {
                     parent.source = "images/reboot.svg"
                 }
             }
-
-            KeyNavigation.backtab : shutdownButton
-            KeyNavigation.tab : shutdownButton
         }
 
     Rectangle {
