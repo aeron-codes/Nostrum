@@ -374,8 +374,7 @@ Rectangle {
             Text {
                 id: lblSession
                 anchors.horizontalCenter: parent.horizontalCenter
-                text: "Welcome to Plasma-Desktop"
-                // text: textConstants.welcomeText.arg(sddm.hostName)
+                text: textConstants.welcomeText.arg(sddm.hostName)
                 font.pixelSize: 26
                 font.family: "Noto Sans"
                 color: "#f8f8f8"
