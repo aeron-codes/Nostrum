@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="2.6727863"
-     inkscape:cx="66.971311"
-     inkscape:cy="48.451311"
+     inkscape:zoom="10.691145"
+     inkscape:cx="68.701714"
+     inkscape:cy="18.052322"
      inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
@@ -43,52 +43,48 @@
   <defs
      id="defs17785" />
   <style
-      id="current-color-scheme"
-      type="text/css">
-      .ColorScheme-Text {
-      }
-      .ColorScheme-Background{
-      }
-      .ColorScheme-Highlight{
-      }
-      .ColorScheme-ViewText {
-      }
-      .ColorScheme-ViewBackground{
-      }
-      .ColorScheme-ViewHover {
-      }
-      .ColorScheme-ViewFocus{
-      }
-      .ColorScheme-ButtonText {
-      }
-      .ColorScheme-ButtonBackground{
-      }
-      .ColorScheme-ButtonHover {
-      }
-      .ColorScheme-ButtonFocus{
-      }
-    </style>
+     id="current-color-scheme"
+     type="text/css">&#10;      .ColorScheme-Text {&#10;      }&#10;      .ColorScheme-Background{&#10;      }&#10;      .ColorScheme-Highlight{&#10;      }&#10;      .ColorScheme-ViewText {&#10;      }&#10;      .ColorScheme-ViewBackground{&#10;      }&#10;      .ColorScheme-ViewHover {&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;      }&#10;      .ColorScheme-ButtonText {&#10;      }&#10;      .ColorScheme-ButtonBackground{&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;      }&#10;    </style>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-505,-880)">
     <g
-       id="start-here-kde">
+       id="start-here-kde"
+       transform="matrix(1.5,0,0,1,-282.5,0)"
+       style="stroke-width:0.816497">
       <rect
-         style="fill:none;stroke-width:2;stroke-linecap:round"
-         id="rect1524"
-         width="48"
-         height="48"
-         x="505"
-         y="880" />
-      <path
-         id="path1"
-         class="ColorScheme-Text"
-         style="fill:currentColor;fill-opacity:1;stroke-width:1.31061;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         inkscape:transform-center-x="5.3782346e-06"
-         inkscape:transform-center-y="-2.2477306"
-         d="m 529,888.07534 -8,6.7433 -8,6.74331 h 4.57143 v 16 h 6.85714 v -10.28572 h 9.14286 v 10.28572 h 6.85714 v -16 H 545 l -8,-6.74331 z" />
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.816497;paint-order:stroke fill markers"
+         id="rect4"
+         width="22"
+         height="22"
+         x="565"
+         y="884.99994" />
+      <g
+         id="g4"
+         style="stroke-width:0.816497">
+        <circle
+           style="opacity:1;fill:#6e3059;fill-opacity:1;stroke:none;stroke-width:0.816496;paint-order:stroke fill markers"
+           id="ellipse4"
+           cx="576"
+           cy="895.99988"
+           r="9" />
+        <ellipse
+           style="opacity:1;fill:#b52947;fill-opacity:1;stroke:none;stroke-width:0.816496;paint-order:stroke fill markers"
+           id="ellipse3"
+           cx="578"
+           cy="898.35175"
+           rx="6"
+           ry="6.0000005" />
+        <ellipse
+           style="opacity:1;fill:#ed382b;fill-opacity:1;stroke:none;stroke-width:0.816497;paint-order:stroke fill markers"
+           id="circle3"
+           cx="579.5"
+           cy="900.49994"
+           rx="3.5"
+           ry="3.5000005" />
+      </g>
     </g>
   </g>
 </svg>
